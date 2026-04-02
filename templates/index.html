@@ -1,1 +1,558 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>Smart Career Advisor</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+
+<body>
+  
+ <!-- Navigation Bar -->
+    <nav class="navbar">
+        <div class="logo">Smart Career Advisor</div>
+        <ul class="nav-links">
+            <li><a href="#home">Home</a></li>
+            <li><a href="#about">About</a></li>
+            <li><a href="#find">Find a Career</a></li>
+            <li><a href="#insights">Career Insights</a></li>
+            <li><a href="#feedback">feedback</a></li>
+        </ul>
+    </nav>
+
+    <header class="spacer"></header>
+
+    <!-- Home Section -->
+    <section id="home" class="home">
+        <div class="content">
+            <h2 class="animate-in">Welcome to Smart Career Advisor</h2>
+            <p class="animate-in delay-1">Discover career suggestions and job vacancies tailored for you.</p>
+            <a href="#find" class="btn primary animate-in delay-2">Start Your Journey <i class="fas fa-arrow-right"></i></a>
+        </div>
+    </section>
+
+    <!-- About Section -->
+    <section id="about" class="section about-section">
+        <h2>About Smart Career Advisor 💡</h2>
+        <p class="subtitle">Our mission is to guide you through the complex world of career exploration with clarity and confidence, powered by intelligent data matching.</p>
+
+        <div class="about-content-block">
+            <h3>Our Vision: Shaping Future Professionals</h3>
+            <p>We believe everyone deserves a clear roadmap to their professional success. Our platform leverages <strong>cutting-edge data analysis</strong> to bridge the gap between academic capabilities and real-world job market demands. We aim to be the most trusted career discovery tool globally, empowering millions to find their niche.</p>
+
+            <h3>Our Commitment: The Smart Methodology</h3>
+            <p>We've meticulously aggregated and cleaned data from top global employers to create a robust matching engine. Every career suggestion and job role presented is a result of a multi-factor analysis considering not just your degree, but your specific <strong>skill set and seniority level</strong>. This rigorous approach ensures that our recommendations are highly relevant and actionable.</p>
+        </div>
+
+        <div class="about-grid">
+            <div class="feature-card">
+                <i class="fas fa-microchip icon-large"></i>
+                <h3>Core Value: Intelligent Matching</h3>
+                <p>We analyze your academic branch, specific skills, and desired experience level to find the best career role and job openings, ensuring a high-quality match.</p>
+            </div>
+            <div class="feature-card">
+                <i class="fas fa-globe-americas icon-large"></i>
+                <h3>Core Value: Global Opportunities</h3>
+                <p>Our expansive dataset includes job roles from top multinational companies, offering you global reach and diverse industry exposure for your chosen path.</p>
+            </div>
+            <div class="feature-card">
+                <i class="fas fa-handshake icon-large"></i>
+                <h3>Core Value: Transparency & Trust</h3>
+                <p>We provide clear details on required skills and company information, allowing you to make informed decisions about your next career move.</p>
+            </div>
+        </div>
+        
+        <div class="team-commitment-block">
+            <h3>Dedicated to Your Growth</h3>
+            <p>While technology drives our matching process, our success is rooted in the continuous effort to refine our data models. We are a small, dedicated team of data scientists and career counselors committed to ensuring the accuracy and relevance of every piece of advice you receive. <strong>Your career journey is our mission.</strong></p>
+        </div>
+    </section>
+
+    <!-- Find a Career Section -->
+    <section id="find" class="section career-find-section">
+        <h2>Find Your Perfect Career Path 🚀</h2>
+        <p>Answer a few questions about your background and skills to receive personalized suggestions.</p>
+
+        <form id="careerForm" class="career-form">
+
+            <!-- Academic Branch -->
+            <div class="form-group">
+                <label for="branch"><i class="fas fa-university"></i> Academic Branch:</label>
+                <select id="branch" required>
+                    <option value="">-- Select Your Branch --</option>
+                    <option value="BCA">BCA(Computer Application)</option>
+                    <option value="CSE">CSE (Computer Science)</option>
+                    <option value="ISE">ISE (Information Science)</option>
+                    <option value="ECE">ECE (Electronics & Communication)</option>
+                    <option value="EEE">EEE (Electrical & Electronics)</option>
+                    <option value="ME">ME (Mechanical)</option>
+                    <option value="CIVIL">Civil Engineering</option>
+                    <option value="AIML">AI & ML</option>
+                    <option value="DS">Data Science</option>
+                    <option value="BIO">Biotechnology</option>
+                    <option value="AUTO">Automobile Engineering</option>
+                </select>
+            </div>
+
+            <!-- Interested Skills -->
+            <div class="form-group">
+                <label><i class="fas fa-lightbulb"></i> Interested Skills:</label>
+                <div class="radio-group small">
+                    <label><input type="checkbox" name="interestedSkill" value="AI/ML"> AI/ML</label>
+                    <label><input type="checkbox" name="interestedSkill" value="Data Science"> Data Science</label>
+                    <label><input type="checkbox" name="interestedSkill" value="Web Development"> Web Development</label>
+                    <label><input type="checkbox" name="interestedSkill" value="Cybersecurity"> Cybersecurity</label>
+                    <label><input type="checkbox" name="interestedSkill" value="Cloud Computing"> Cloud Computing</label>
+                    <label><input type="checkbox" name="interestedSkill" value="Embedded Systems"> Embedded Systems</label>
+                    <label><input type="checkbox" name="interestedSkill" value="App Development"> App Development</label>
+                    <label><input type="checkbox" name="interestedSkill" value="Data Analytics"> Data Analytics</label>
+                    
+                </div>
+            </div>
+
+
+          
+
+
+            <!-- Already Learned Skills -->
+            <div class="form-group">
+                <label><i class="fas fa-graduation-cap"></i> Already Learned Skills:</label>
+                <div class="radio-group small">
+                    <label><input type="checkbox" name="learnedSkill" value="Python" required> Python</label>
+                    <label><input type="checkbox" name="learnedSkill" value="Java"> Java</label>
+                    <label><input type="checkbox" name="learnedSkill" value="C++"> C++</label>
+                    <label><input type="checkbox" name="learnedSkill" value="HTML/CSS"> HTML/CSS</label>
+                    <label><input type="checkbox" name="learnedSkill" value="JavaScript"> JavaScript</label>
+                    <label><input type="checkbox" name="learnedSkill" value="SQL"> SQL</label>
+                    <label><input type="checkbox" name="learnedSkill" value="React"> React</label>
+                    <label><input type="checkbox" name="learnedSkill" value="Node.js"> Node.js</label>
+                    <label><input type="checkbox" name="learnedSkill" value="AI/ML"> AI/ML</label>
+                   
+                </div>
+            </div>
+
+            <!-- Experience Type -->
+            <div class="form-group">
+                <label><i class="fas fa-briefcase"></i> Are you a Fresher or Experienced?</label>
+                <div class="radio-group">
+                    <label><input type="radio" name="expType" value="Fresher" checked> Fresher</label>
+                    <label><input type="radio" name="expType" value="Experienced"> Experienced</label>
+                </div>
+            </div>
+
+            <!-- Years of Experience (hidden initially) -->
+            <div class="form-group hidden" id="yearsGroup">
+                <label for="years"><i class="fas fa-calendar-alt"></i> Years of Experience:</label>
+                <input type="number" id="years" min="1" max="40" placeholder="Enter years of experience">
+            </div>
+
+            <!-- Preferred Role -->
+            <div class="form-group">
+                <label for="preferredRole">Preferred Role (Optional):</label>
+                <select id="preferredRole" name="preferredRole">
+                    <option value="">-- Select a Role --</option>
+                    <option value="Software Developer">Software Developer</option>
+                    <option value="Data Analyst">Data Analyst</option>
+                    <option value="AI Engineer">AI Engineer</option>
+                    <option value="Cybersecurity Analyst">Cybersecurity Analyst</option>
+                    <option value="Cloud Engineer">Cloud Engineer</option>
+                    <option value="Web Developer">Web Developer</option>
+                    <option value="Embedded Systems Engineer">Embedded Systems Engineer</option>
+                    <option value="Project Manager">Project Manager</option>
+                    <option value="System Administrator">System Administrator</option>
+                </select>
+            </div>
+
+            <!-- Preferred Location -->
+            <div class="form-group">
+                <label for="preferredLocation">Preferred Location (Optional):</label>
+                <select id="preferredLocation" name="preferredLocation">
+                    <option value="">-- Select a Location --</option>
+                    <option value="Bengaluru">Bengaluru</option>
+                    <option value="Hyderabad">Hyderabad</option>
+                    <option value="Pune">Pune</option>
+                    <option value="Chennai">Chennai</option>
+                    <option value="Delhi NCR">Delhi NCR</option>
+                    <option value="Mumbai">Mumbai</option>
+                    <option value="Kolkata">Kolkata</option>
+                    <option value="Ahmedabad">Ahmedabad</option>
+                    <option value="Coimbatore">Coimbatore</option>
+                </select>
+            </div>
+
+            <!-- Submit -->
+            <button type="submit" class="btn primary submit-btn">Get Recommendations</button>
+        </form>
+    </section>
+
+    <!-- Results Section -->
+    <section id="resultsSection" class="section results-section hidden">
+        <div id="careerResults"></div>
+        <hr class="results-divider">
+        <div id="jobResults"></div>
+    </section>
+ 
+
+
+
+       <!-- Career Insights Section -->
+    <section id="insights" class="section insights-section">
+        <h2>Career Insights</h2>
+        <h3>Explore detailed information about career paths</h3>
+        <div class="container" id="career-list"></div>
+
+        <script>
+         
+ 
+const careers = [
+  {
+    title: "Software Engineer",
+    overview: "Develop and maintain computer software applications.",
+    salary: "₹5–12 LPA",
+    growth: "High – in demand across all industries",
+    companies: "TCS, Infosys, Google, Microsoft, Wipro",
+    learn: "Coursera, Udemy, freeCodeCamp"
+  },
+  {
+    title: "Data Scientist",
+    overview: "Analyze data and build predictive models to aid business decisions.",
+    salary: "₹8–20 LPA",
+    growth: "Very High – data-driven economy",
+    companies: "Amazon, Accenture, Deloitte, IBM",
+    learn: "Kaggle, Coursera, edX"
+  },
+  {
+    title: "Web Developer",
+    overview: "Design, build, and maintain websites and web applications.",
+    salary: "₹3–10 LPA",
+    growth: "High – growing internet services sector",
+    companies: "Infosys, TCS, Zoho, Wipro",
+    learn: "freeCodeCamp, Udemy, YouTube"
+  },
+  {
+    title: "UI/UX Designer",
+    overview: "Design intuitive user interfaces and user experiences.",
+    salary: "₹4–12 LPA",
+    growth: "High – user-focused product design boom",
+    companies: "Adobe, Google, Swiggy, Zomato",
+    learn: "Coursera, Interaction Design Foundation, Figma tutorials"
+  },
+  {
+    title: "Cybersecurity Analyst",
+    overview: "Protect systems and data from cyber threats and vulnerabilities.",
+    salary: "₹6–15 LPA",
+    growth: "Very High – rising cybersecurity needs",
+    companies: "Cisco, IBM, Palo Alto Networks, Infosys",
+    learn: "TryHackMe, Cybrary, Coursera"
+  },
+  {
+    title: "Cloud Engineer",
+    overview: "Manage cloud infrastructure and deploy scalable applications.",
+    salary: "₹7–18 LPA",
+    growth: "Very High – cloud computing expansion",
+    companies: "AWS, Google Cloud, Azure, Oracle",
+    learn: "AWS Training, Coursera, A Cloud Guru"
+  },
+  {
+    title: "Machine Learning Engineer",
+    overview: "Develop AI and machine learning models for automation and insights.",
+    salary: "₹8–22 LPA",
+    growth: "High – AI adoption increasing rapidly",
+    companies: "NVIDIA, Google, Meta, Amazon",
+    learn: "Coursera (Andrew Ng), Kaggle, Udemy"
+  },
+  {
+    title: "DevOps Engineer",
+    overview: "Integrate development and operations processes using automation.",
+    salary: "₹6–16 LPA",
+    growth: "High – needed for fast-paced deployment",
+    companies: "IBM, Accenture, Infosys, TCS",
+    learn: "Linux Academy, Coursera, YouTube"
+  },
+  {
+    title: "Database Administrator",
+    overview: "Maintain and secure databases ensuring performance and availability.",
+    salary: "₹5–12 LPA",
+    growth: "Medium – essential IT backbone role",
+    companies: "Oracle, IBM, Infosys, Wipro",
+    learn: "Udemy, Oracle University, Coursera"
+  },
+  {
+    title: "Mobile App Developer",
+    overview: "Design and develop mobile apps for Android and iOS platforms.",
+    salary: "₹4–12 LPA",
+    growth: "High – booming app market",
+    companies: "Google, Zoho, Swiggy, Byju’s",
+    learn: "Udemy, Android Developers, Coursera"
+  },
+  {
+    title: "AI Engineer",
+    overview: "Build and deploy artificial intelligence models and systems.",
+    salary: "₹10–25 LPA",
+    growth: "Very High – emerging tech field",
+    companies: "OpenAI, Microsoft, Google, Meta",
+    learn: "DeepLearning.AI, Coursera, edX"
+  },
+  {
+    title: "Blockchain Developer",
+    overview: "Develop decentralized applications using blockchain technologies.",
+    salary: "₹7–20 LPA",
+    growth: "High – fintech and Web3 expansion",
+    companies: "Polygon, ConsenSys, IBM, Infosys",
+    learn: "CryptoZombies, Udemy, Coursera"
+  },
+  {
+    title: "Full Stack Developer",
+    overview: "Handle both frontend and backend development of applications.",
+    salary: "₹5–15 LPA",
+    growth: "High – multi-skill developers in demand",
+    companies: "Zoho, Infosys, TCS, Amazon",
+    learn: "freeCodeCamp, Udemy, Coursera"
+  },
+  {
+    title: "Network Engineer",
+    overview: "Design and maintain network infrastructure for organizations.",
+    salary: "₹4–10 LPA",
+    growth: "Moderate – vital for IT connectivity",
+    companies: "Cisco, Airtel, HCL, Wipro",
+    learn: "Cisco Networking Academy, Coursera"
+  },
+  {
+    title: "Game Developer",
+    overview: "Develop interactive video games for various platforms.",
+    salary: "₹4–14 LPA",
+    growth: "High – gaming industry rising fast",
+    companies: "Ubisoft, EA, Rockstar, Nazara",
+    learn: "Unity Learn, Udemy, Coursera"
+  },
+  {
+    title: "System Administrator",
+    overview: "Manage IT systems, servers, and infrastructure operations.",
+    salary: "₹3–9 LPA",
+    growth: "Moderate – needed in all IT sectors",
+    companies: "Dell, HP, Infosys, IBM",
+    learn: "Linux Academy, Pluralsight, Coursera"
+  },
+  {
+    title: "IT Support Specialist",
+    overview: "Provide technical support and troubleshoot user issues.",
+    salary: "₹2.5–6 LPA",
+    growth: "Stable – required in all organizations",
+    companies: "Infosys, Tech Mahindra, IBM, Dell",
+    learn: "Google IT Support (Coursera), Udemy"
+  },
+  {
+    title: "Product Manager",
+    overview: "Oversee product lifecycle and coordinate development teams.",
+    salary: "₹10–25 LPA",
+    growth: "Very High – core business role",
+    companies: "Google, Microsoft, Swiggy, Flipkart",
+    learn: "Coursera, Product School, Udemy"
+  },
+  {
+    title: "AI Research Scientist",
+    overview: "Conduct research on artificial intelligence models and algorithms.",
+    salary: "₹12–30 LPA",
+    growth: "High – innovation-driven field",
+    companies: "Google DeepMind, OpenAI, IBM Research",
+    learn: "MIT OpenCourseWare, Coursera, edX"
+  },
+  {
+    title: "Data Analyst",
+    overview: "Interpret and visualize data to support decision-making.",
+    salary: "₹4–10 LPA",
+    growth: "High – businesses rely on data insights",
+    companies: "Deloitte, KPMG, TCS, EY",
+    learn: "Google Data Analytics (Coursera), Udemy"
+  },
+  {
+    title: "Business Analyst",
+    overview: "Bridge gap between business needs and technical solutions.",
+    salary: "₹5–12 LPA",
+    growth: "High – needed in all industries",
+    companies: "Accenture, Infosys, Deloitte, IBM",
+    learn: "Coursera, edX, Udemy"
+  },
+  {
+    title: "Game Designer",
+    overview: "Create gameplay mechanics and interactive storytelling.",
+    salary: "₹4–12 LPA",
+    growth: "High – creative tech role",
+    companies: "Ubisoft, EA, Rockstar, Gameloft",
+    learn: "Udemy, Coursera, GameDev.tv"
+  },
+  {
+    title: "Digital Marketer",
+    overview: "Promote brands and products using online marketing tools.",
+    salary: "₹3–10 LPA",
+    growth: "Very High – digital presence demand",
+    companies: "Google, Meta, Byju’s, Amazon",
+    learn: "Google Digital Garage, Coursera, Udemy"
+  },
+  {
+    title: "SEO Specialist",
+    overview: "Optimize websites to rank higher on search engines.",
+    salary: "₹3–8 LPA",
+    growth: "High – vital for digital marketing",
+    companies: "Moz, SEMrush, Freelancing, Agencies",
+    learn: "HubSpot Academy, Coursera, Udemy"
+  },
+  {
+    title: "Graphic Designer",
+    overview: "Create visual concepts and designs for digital and print media.",
+    salary: "₹2.5–7 LPA",
+    growth: "High – content creation boom",
+    companies: "Adobe, Canva, Design Studios",
+    learn: "Canva Design School, Udemy, Coursera"
+  },
+  {
+    title: "Content Writer",
+    overview: "Produce engaging written content for blogs and websites.",
+    salary: "₹2–6 LPA",
+    growth: "High – online media growth",
+    companies: "Media Houses, Freelancing, Agencies",
+    learn: "Grammarly Blog, Udemy, Coursera"
+  },
+  {
+    title: "Financial Analyst",
+    overview: "Analyze financial data for investment and business planning.",
+    salary: "₹5–15 LPA",
+    growth: "Moderate – stable finance career",
+    companies: "Goldman Sachs, Deloitte, JP Morgan",
+    learn: "Coursera, CFA Institute, Udemy"
+  },
+  {
+    title: "HR Manager",
+    overview: "Oversee recruitment, employee relations, and HR operations.",
+    salary: "₹6–14 LPA",
+    growth: "Moderate – essential organizational role",
+    companies: "Infosys, Wipro, Deloitte, IBM",
+    learn: "Coursera, LinkedIn Learning, Udemy"
+  },
+  {
+    title: "Cloud Architect",
+    overview: "Design and manage cloud computing architecture for enterprises.",
+    salary: "₹12–30 LPA",
+    growth: "Very High – enterprise cloud migration",
+    companies: "AWS, Google Cloud, IBM, Microsoft",
+    learn: "AWS Academy, Coursera, A Cloud Guru"
+  },
+  {
+    title: "Automation Engineer",
+    overview: "Design automated systems for manufacturing and IT workflows.",
+    salary: "₹5–12 LPA",
+    growth: "High – automation demand increasing",
+    companies: "ABB, Siemens, Honeywell, TCS",
+    learn: "Udemy, Coursera, PLC courses"
+  },
+  {
+    title: "Robotics Engineer",
+    overview: "Design, build, and maintain robots and automation systems.",
+    salary: "₹6–18 LPA",
+    growth: "High – robotics in manufacturing",
+    companies: "ABB, Boston Dynamics, ISRO, Tata Motors",
+    learn: "edX, Udemy, Coursera"
+  },
+  {
+    title: "AR/VR Developer",
+    overview: "Create immersive augmented and virtual reality experiences.",
+    salary: "₹6–15 LPA",
+    growth: "High – metaverse & gaming expansion",
+    companies: "Meta, Unity, Google, Niantic",
+    learn: "Unity Learn, Coursera, Udemy"
+  },
+  {
+    title: "Ethical Hacker",
+    overview: "Identify and fix security vulnerabilities through testing.",
+    salary: "₹6–20 LPA",
+    growth: "High – ethical hacking awareness",
+    companies: "Cybersecurity firms, IBM, TCS",
+    learn: "CEH Certification, TryHackMe, Udemy"
+  },
+  {
+    title: "IT Project Manager",
+    overview: "Plan, execute, and oversee technology projects.",
+    salary: "₹8–20 LPA",
+    growth: "High – leadership in IT",
+    companies: "Infosys, Capgemini, TCS, Wipro",
+    learn: "PMI, Coursera, Udemy"
+  },
+  {
+    title: "Mechanical Engineer",
+    overview: "Design and develop mechanical systems and machinery.",
+    salary: "₹3–10 LPA",
+    growth: "Stable – manufacturing sector demand",
+    companies: "L&T, Tata Motors, Bosch, ISRO",
+    learn: "NPTEL, Coursera, edX"
+  },
+  {
+    title: "Electrical Engineer",
+    overview: "Work on electrical systems, power generation, and circuits.",
+    salary: "₹4–12 LPA",
+    growth: "Stable – core engineering role",
+    companies: "Siemens, NTPC, BHEL, ABB",
+    learn: "NPTEL, Coursera, edX"
+  },
+  {
+    title: "Civil Engineer",
+    overview: "Design and manage construction of buildings and infrastructure.",
+    salary: "₹3–9 LPA",
+    growth: "Moderate – infrastructure expansion",
+    companies: "L&T, Tata Projects, Shapoorji Pallonji",
+    learn: "NPTEL, Coursera, Skillshare"
+  },
+  {
+    title: "Biotechnologist",
+    overview: "Use biology and technology to develop medical and agricultural solutions.",
+    salary: "₹4–10 LPA",
+    growth: "High – bio innovation growing",
+    companies: "Biocon, Dr. Reddy’s, Serum Institute",
+    learn: "Coursera, edX, Khan Academy"
+  },
+  {
+    title: "AI Product Designer",
+    overview: "Design user experiences for AI-based applications.",
+    salary: "₹8–20 LPA",
+    growth: "High – merging AI with design",
+    companies: "Google, OpenAI, Meta, Adobe",
+    learn: "Interaction Design Foundation, Coursera"
+  }
+];
+
+const container = document.getElementById("career-list");
+careers.forEach(c => {
+  const div = document.createElement("div");
+  div.className = "career-card";
+  div.innerHTML = `
+    <h3>${c.title}</h3>
+    <p><strong>Overview:</strong> ${c.overview}</p>
+    <p><strong>Average Salary:</strong> ${c.salary}</p>
+    <p><strong>Career Growth:</strong> ${c.growth}</p>
+    <p><strong>Top Companies:</strong> ${c.companies}</p>
+    <p><strong>Where to Learn:</strong> ${c.learn}</p>
+  `;
+  container.appendChild(div);
+});
+</script>
+ </section>
+
+<section id="feedback" class="feedback-section">
+  <div class="feedback-container">
+    <h2>💬 Share Your Feedback</h2>
+    <form id="feedbackForm">
+      <input type="text" id="name" placeholder="Your Name" required />
+      <input type="email" id="email" placeholder="Your Email" required />
+      <textarea id="message" placeholder="Your Feedback" required></textarea>
+      <button type="submit">Send Feedback</button>
+    </form>
+  </div>
+</section>
+
+    <!-- Main JS -->
+    <script src="script.js"></script>
+
+</body>
+</html>
 
