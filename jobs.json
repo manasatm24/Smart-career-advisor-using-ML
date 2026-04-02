@@ -1,0 +1,6109 @@
+[
+  {
+    "company": "Google",
+    "industry": "Healthcare Tech",
+    "company_size": "201-500",
+    "job_roles": [
+      {
+        "role": "Software Engineer",
+        "seniority": "Manager",
+        "skills": [
+          "Programming",
+          "Java",
+          "Python",
+          "C++",
+          "Agile",
+          "Scrum",
+          "Databases",
+          "SQL",
+          "NoSQL",
+          "Data Structures & Algorithms",
+          "Unit Testing",
+          "System Design",
+          "Git",
+          "APIs",
+          "REST"
+        ],
+        "location": "Chennai, India",
+        "employment_type": "Part-time"
+      },
+      {
+        "role": "Data Engineer",
+        "seniority": "Principal",
+        "skills": [
+          "ETL",
+          "Pipelines",
+          "Python",
+          "Scala",
+          "Spark",
+          "SQL",
+          "Airflow",
+          "Data Warehousing",
+          "Cloud Data Services",
+          "Large-scale system design"
+        ],
+        "location": "Hyderabad, India",
+        "employment_type": "Full-time"
+      },
+      {
+        "role": "Cloud Engineer",
+        "seniority": "Manager",
+        "skills": [
+          "Cloud Architecture",
+          "Containerization",
+          "Security",
+          "Networking in Cloud",
+          "Cost Optimization",
+          "AWS",
+          "Azure",
+          "GCP",
+          "Monitoring",
+          "IaC",
+          "Terraform"
+        ],
+        "location": "Hyderabad, India",
+        "employment_type": "Remote"
+      },
+      {
+        "role": "Cybersecurity Engineer",
+        "seniority": "Junior",
+        "skills": [
+          "Identity & Access Management",
+          "Encryption",
+          "Penetration Testing",
+          "Secure Architecture",
+          "SIEM",
+          "Vulnerability Management",
+          "Threat Modeling"
+        ],
+        "location": "Remote",
+        "employment_type": "Contract"
+      },
+      {
+        "role": "Data Scientist",
+        "seniority": "Senior",
+        "skills": [
+          "SQL",
+          "Machine Learning",
+          "Data Cleaning",
+          "Model Evaluation",
+          "Statistics",
+          "Large-scale system design"
+        ],
+        "location": "Berlin, Germany",
+        "employment_type": "Internship"
+      },
+      {
+        "role": "Full Stack Developer",
+        "seniority": "Lead",
+        "skills": [
+          "Databases",
+          "DevOps Basics",
+          "CI",
+          "CD",
+          "Backend Frameworks",
+          "Version Control",
+          "Large-scale system design"
+        ],
+        "location": "Berlin, Germany",
+        "employment_type": "Remote"
+      },
+      {
+        "role": "Backend Developer",
+        "seniority": "Junior",
+        "skills": [
+          "Microservices",
+          "Message Queues",
+          "Server-side languages",
+          "Java",
+          "Python",
+          "Node.js",
+          "Database Design",
+          "Unit & Integration Testing",
+          "Caching",
+          "Large-scale system design"
+        ],
+        "location": "Chennai, India",
+        "employment_type": "Remote"
+      }
+    ]
+  },
+  {
+    "company": "Microsoft",
+    "industry": "EdTech",
+    "company_size": "201-500",
+    "job_roles": [
+      {
+        "role": "Business Analyst",
+        "seniority": "Associate",
+        "skills": [
+          "Excel",
+          "Sheets",
+          "SQL",
+          "Data Analysis",
+          "UML",
+          "Process Modelling",
+          "Stakeholder Management",
+          "Requirements Gathering",
+          "Reporting",
+          "Documentation",
+          "Large-scale system design"
+        ],
+        "location": "Bengaluru, India",
+        "employment_type": "Part-time"
+      },
+      {
+        "role": "Cybersecurity Engineer",
+        "seniority": "Internship",
+        "skills": [
+          "SIEM",
+          "Threat Modeling",
+          "Encryption",
+          "Security Automation",
+          "Vulnerability Management"
+        ],
+        "location": "Berlin, Germany",
+        "employment_type": "Full-time"
+      },
+      {
+        "role": "Security Analyst",
+        "seniority": "Lead",
+        "skills": [
+          "Firewalls",
+          "IDS",
+          "IPS",
+          "Network Security",
+          "SIEM",
+          "Vulnerability Assessment",
+          "Threat Detection",
+          "Incident Response",
+          "Compliance"
+        ],
+        "location": "New York, USA",
+        "employment_type": "Contract"
+      },
+      {
+        "role": "Data Scientist",
+        "seniority": "Associate",
+        "skills": [
+          "Feature Engineering",
+          "SQL",
+          "Data Visualization",
+          "Model Evaluation",
+          "Statistics",
+          "Large-scale system design"
+        ],
+        "location": "New York, USA",
+        "employment_type": "Remote"
+      },
+      {
+        "role": "Data Engineer",
+        "seniority": "Lead",
+        "skills": [
+          "Data Warehousing",
+          "SQL",
+          "ETL",
+          "Pipelines",
+          "Cloud Data Services",
+          "Airflow"
+        ],
+        "location": "Chennai, India",
+        "employment_type": "Full-time"
+      },
+      {
+        "role": "Network Engineer",
+        "seniority": "Associate",
+        "skills": [
+          "Network Protocols",
+          "TCP",
+          "IP",
+          "Routing & Switching",
+          "Load Balancers",
+          "VPN",
+          "Monitoring",
+          "Firewalls"
+        ],
+        "location": "Berlin, Germany",
+        "employment_type": "Part-time"
+      },
+      {
+        "role": "Cloud Engineer",
+        "seniority": "Senior",
+        "skills": [
+          "Networking in Cloud",
+          "Monitoring",
+          "Security",
+          "IaC",
+          "Terraform",
+          "Cloud Architecture",
+          "Containerization"
+        ],
+        "location": "Toronto, Canada",
+        "employment_type": "Internship"
+      },
+      {
+        "role": "Mobile Developer",
+        "seniority": "Junior",
+        "skills": [
+          "Testing",
+          "App Store",
+          "Play Store knowledge",
+          "UI",
+          "UX for Mobile",
+          "APIs",
+          "Performance Optimization",
+          "Mobile Architectures",
+          "Android",
+          "Kotlin",
+          "Java",
+          "or iOS",
+          "Swift",
+          "Large-scale system design"
+        ],
+        "location": "Gurgaon, India",
+        "employment_type": "Full-time"
+      },
+      {
+        "role": "UI/UX Designer",
+        "seniority": "Principal",
+        "skills": [
+          "User Research",
+          "Figma",
+          "Sketch",
+          "Usability Testing",
+          "Visual Design",
+          "Wireframing",
+          "Interaction Design"
+        ],
+        "location": "Hyderabad, India",
+        "employment_type": "Remote"
+      },
+      {
+        "role": "Product Manager",
+        "seniority": "Director",
+        "skills": [
+          "Stakeholder Communication",
+          "Metrics",
+          "Analytics",
+          "Prioritization",
+          "User Research",
+          "UX Familiarity",
+          "Roadmapping"
+        ],
+        "location": "Chennai, India",
+        "employment_type": "Part-time"
+      }
+    ]
+  },
+  {
+    "company": "Amazon",
+    "industry": "EdTech",
+    "company_size": "201-500",
+    "job_roles": [
+      {
+        "role": "Full Stack Developer",
+        "seniority": "Senior",
+        "skills": [
+          "Backend Frameworks",
+          "Frontend Frameworks",
+          "RESTful APIs",
+          "Databases",
+          "Version Control",
+          "Large-scale system design"
+        ],
+        "location": "New York, USA",
+        "employment_type": "Part-time"
+      },
+      {
+        "role": "Technical Support Engineer",
+        "seniority": "Junior",
+        "skills": [
+          "Logging & Monitoring",
+          "Customer Communication",
+          "Product Knowledge",
+          "Knowledge Base Writing",
+          "Troubleshooting",
+          "Ticketing Systems",
+          "Large-scale system design"
+        ],
+        "location": "Bengaluru, India",
+        "employment_type": "Remote"
+      },
+      {
+        "role": "Data Analyst",
+        "seniority": "Senior",
+        "skills": [
+          "Excel",
+          "Data Cleaning",
+          "Dashboards",
+          "Python",
+          "R",
+          "Statistics",
+          "Large-scale system design"
+        ],
+        "location": "Remote",
+        "employment_type": "Part-time"
+      },
+      {
+        "role": "UI/UX Designer",
+        "seniority": "Director",
+        "skills": [
+          "Prototyping",
+          "User Research",
+          "Figma",
+          "Sketch",
+          "Usability Testing",
+          "Design Systems"
+        ],
+        "location": "Noida, India",
+        "employment_type": "Part-time"
+      },
+      {
+        "role": "Cybersecurity Engineer",
+        "seniority": "Director",
+        "skills": [
+          "Vulnerability Management",
+          "Penetration Testing",
+          "Security Automation",
+          "SIEM",
+          "Secure Architecture",
+          "Identity & Access Management",
+          "Threat Modeling",
+          "Encryption",
+          "Large-scale system design"
+        ],
+        "location": "New York, USA",
+        "employment_type": "Remote"
+      },
+      {
+        "role": "Mobile Developer",
+        "seniority": "Senior",
+        "skills": [
+          "Android",
+          "Kotlin",
+          "Java",
+          "or iOS",
+          "Swift",
+          "Performance Optimization",
+          "App Store",
+          "Play Store knowledge",
+          "Mobile Architectures",
+          "Testing",
+          "UI",
+          "UX for Mobile"
+        ],
+        "location": "San Francisco, USA",
+        "employment_type": "Full-time"
+      },
+      {
+        "role": "Security Analyst",
+        "seniority": "Principal",
+        "skills": [
+          "Network Security",
+          "Incident Response",
+          "Pen Testing basics",
+          "Vulnerability Assessment",
+          "SIEM",
+          "Threat Detection",
+          "Large-scale system design"
+        ],
+        "location": "Chennai, India",
+        "employment_type": "Internship"
+      }
+    ]
+  },
+  {
+    "company": "Meta",
+    "industry": "Consulting",
+    "company_size": "201-500",
+    "job_roles": [
+      {
+        "role": "Security Analyst",
+        "seniority": "Lead",
+        "skills": [
+          "SIEM",
+          "Pen Testing basics",
+          "Network Security",
+          "Threat Detection",
+          "Compliance",
+          "Incident Response",
+          "Firewalls",
+          "IDS",
+          "IPS",
+          "Large-scale system design"
+        ],
+        "location": "London, UK",
+        "employment_type": "Remote"
+      },
+      {
+        "role": "Quality Assurance Engineer",
+        "seniority": "Junior",
+        "skills": [
+          "Regression Testing",
+          "Bug Tracking",
+          "JIRA",
+          "Test Planning",
+          "Manual Testing",
+          "Automation",
+          "Selenium",
+          "Cypress",
+          "Large-scale system design"
+        ],
+        "location": "Toronto, Canada",
+        "employment_type": "Remote"
+      },
+      {
+        "role": "Backend Developer",
+        "seniority": "Lead",
+        "skills": [
+          "Caching",
+          "API Design",
+          "Unit & Integration Testing",
+          "Database Design",
+          "Message Queues",
+          "Server-side languages",
+          "Java",
+          "Python",
+          "Node.js"
+        ],
+        "location": "New York, USA",
+        "employment_type": "Part-time"
+      },
+      {
+        "role": "Software Engineer",
+        "seniority": "Associate",
+        "skills": [
+          "Programming",
+          "Java",
+          "Python",
+          "C++",
+          "Agile",
+          "Scrum",
+          "Git",
+          "APIs",
+          "REST",
+          "System Design",
+          "Databases",
+          "SQL",
+          "NoSQL",
+          "Unit Testing",
+          "Large-scale system design"
+        ],
+        "location": "Berlin, Germany",
+        "employment_type": "Internship"
+      },
+      {
+        "role": "Solutions Architect",
+        "seniority": "Associate",
+        "skills": [
+          "Documentation",
+          "Scalability & Performance",
+          "Stakeholder Communication",
+          "Security",
+          "System Architecture",
+          "Cost Estimation",
+          "Large-scale system design"
+        ],
+        "location": "New York, USA",
+        "employment_type": "Full-time"
+      },
+      {
+        "role": "Full Stack Developer",
+        "seniority": "Senior",
+        "skills": [
+          "Databases",
+          "RESTful APIs",
+          "Backend Frameworks",
+          "Frontend Frameworks",
+          "Testing",
+          "CI",
+          "CD",
+          "DevOps Basics"
+        ],
+        "location": "Berlin, Germany",
+        "employment_type": "Contract"
+      },
+      {
+        "role": "Cybersecurity Engineer",
+        "seniority": "Senior",
+        "skills": [
+          "Identity & Access Management",
+          "SIEM",
+          "Encryption",
+          "Threat Modeling",
+          "Penetration Testing"
+        ],
+        "location": "Remote",
+        "employment_type": "Contract"
+      },
+      {
+        "role": "DevOps Engineer",
+        "seniority": "Senior",
+        "skills": [
+          "Scripting",
+          "Bash",
+          "Python",
+          "CI",
+          "CD",
+          "Jenkins",
+          "GitLab CI",
+          "Docker",
+          "Kubernetes",
+          "Terraform",
+          "Ansible",
+          "Cloud",
+          "AWS",
+          "Azure",
+          "GCP"
+        ],
+        "location": "Noida, India",
+        "employment_type": "Contract"
+      },
+      {
+        "role": "Data Engineer",
+        "seniority": "Director",
+        "skills": [
+          "Python",
+          "Scala",
+          "Cloud Data Services",
+          "ETL",
+          "Pipelines",
+          "SQL",
+          "Spark",
+          "Large-scale system design"
+        ],
+        "location": "Gurgaon, India",
+        "employment_type": "Internship"
+      }
+    ]
+  },
+  {
+    "company": "Apple",
+    "industry": "Consulting",
+    "company_size": "2001-10000",
+    "job_roles": [
+      {
+        "role": "Technical Support Engineer",
+        "seniority": "Lead",
+        "skills": [
+          "Scripting",
+          "for automation",
+          "Ticketing Systems",
+          "Logging & Monitoring",
+          "Product Knowledge",
+          "Troubleshooting",
+          "Knowledge Base Writing",
+          "Customer Communication",
+          "Large-scale system design"
+        ],
+        "location": "Bengaluru, India",
+        "employment_type": "Full-time"
+      },
+      {
+        "role": "DevOps Engineer",
+        "seniority": "Manager",
+        "skills": [
+          "Monitoring & Logging",
+          "Security best practices",
+          "Kubernetes",
+          "Terraform",
+          "Ansible",
+          "CI",
+          "CD",
+          "Jenkins",
+          "GitLab CI",
+          "Docker",
+          "Cloud",
+          "AWS",
+          "Azure",
+          "GCP",
+          "Scripting",
+          "Bash",
+          "Python",
+          "Large-scale system design"
+        ],
+        "location": "Bengaluru, India",
+        "employment_type": "Remote"
+      },
+      {
+        "role": "Business Analyst",
+        "seniority": "Lead",
+        "skills": [
+          "UML",
+          "Process Modelling",
+          "Stakeholder Management",
+          "Requirements Gathering",
+          "SQL",
+          "Documentation",
+          "Excel",
+          "Sheets"
+        ],
+        "location": "New York, USA",
+        "employment_type": "Internship"
+      },
+      {
+        "role": "Quality Assurance Engineer",
+        "seniority": "Associate",
+        "skills": [
+          "Bug Tracking",
+          "JIRA",
+          "API Testing",
+          "CI Integration",
+          "Automation",
+          "Selenium",
+          "Cypress",
+          "Manual Testing",
+          "Test Planning",
+          "Test Case Design",
+          "Regression Testing"
+        ],
+        "location": "London, UK",
+        "employment_type": "Remote"
+      },
+      {
+        "role": "Data Engineer",
+        "seniority": "Principal",
+        "skills": [
+          "Python",
+          "Scala",
+          "NoSQL",
+          "ETL",
+          "Pipelines",
+          "Airflow",
+          "Cloud Data Services",
+          "Data Warehousing",
+          "Spark"
+        ],
+        "location": "Seattle, USA",
+        "employment_type": "Part-time"
+      },
+      {
+        "role": "Backend Developer",
+        "seniority": "Senior",
+        "skills": [
+          "Authentication & Authorization",
+          "Caching",
+          "Unit & Integration Testing",
+          "Database Design",
+          "Server-side languages",
+          "Java",
+          "Python",
+          "Node.js",
+          "Message Queues",
+          "API Design",
+          "Microservices"
+        ],
+        "location": "Berlin, Germany",
+        "employment_type": "Internship"
+      },
+      {
+        "role": "Mobile Developer",
+        "seniority": "Junior",
+        "skills": [
+          "App Store",
+          "Play Store knowledge",
+          "Mobile Architectures",
+          "Testing",
+          "Android",
+          "Kotlin",
+          "Java",
+          "or iOS",
+          "Swift",
+          "APIs",
+          "UI",
+          "UX for Mobile"
+        ],
+        "location": "Seattle, USA",
+        "employment_type": "Part-time"
+      }
+    ]
+  },
+  {
+    "company": "IBM",
+    "industry": "Product",
+    "company_size": "1-50",
+    "job_roles": [
+      {
+        "role": "Business Analyst",
+        "seniority": "Director",
+        "skills": [
+          "Requirements Gathering",
+          "Documentation",
+          "Data Analysis",
+          "Reporting",
+          "Stakeholder Management",
+          "Excel",
+          "Sheets",
+          "UML",
+          "Process Modelling",
+          "SQL"
+        ],
+        "location": "London, UK",
+        "employment_type": "Remote"
+      },
+      {
+        "role": "Cloud Engineer",
+        "seniority": "Director",
+        "skills": [
+          "Monitoring",
+          "Cloud Architecture",
+          "Cost Optimization",
+          "IaC",
+          "Terraform",
+          "Networking in Cloud",
+          "Security",
+          "AWS",
+          "Azure",
+          "GCP",
+          "Containerization"
+        ],
+        "location": "Berlin, Germany",
+        "employment_type": "Contract"
+      },
+      {
+        "role": "Data Scientist",
+        "seniority": "Principal",
+        "skills": [
+          "Model Evaluation",
+          "Python",
+          "R",
+          "Data Visualization",
+          "Machine Learning",
+          "Statistics",
+          "Data Cleaning",
+          "Feature Engineering"
+        ],
+        "location": "New York, USA",
+        "employment_type": "Full-time"
+      },
+      {
+        "role": "Software Engineer",
+        "seniority": "Manager",
+        "skills": [
+          "System Design",
+          "Data Structures & Algorithms",
+          "APIs",
+          "REST",
+          "Databases",
+          "SQL",
+          "NoSQL",
+          "Unit Testing",
+          "Programming",
+          "Java",
+          "Python",
+          "C++"
+        ],
+        "location": "San Francisco, USA",
+        "employment_type": "Internship"
+      },
+      {
+        "role": "Full Stack Developer",
+        "seniority": "Director",
+        "skills": [
+          "Version Control",
+          "Frontend Frameworks",
+          "Backend Frameworks",
+          "RESTful APIs",
+          "DevOps Basics",
+          "Databases",
+          "Testing",
+          "CI",
+          "CD"
+        ],
+        "location": "Bengaluru, India",
+        "employment_type": "Internship"
+      },
+      {
+        "role": "Data Analyst",
+        "seniority": "Lead",
+        "skills": [
+          "Data Cleaning",
+          "Dashboards",
+          "Statistics",
+          "Reporting",
+          "Excel",
+          "Python",
+          "R",
+          "SQL"
+        ],
+        "location": "San Francisco, USA",
+        "employment_type": "Part-time"
+      },
+      {
+        "role": "Technical Support Engineer",
+        "seniority": "Associate",
+        "skills": [
+          "Logging & Monitoring",
+          "Product Knowledge",
+          "Knowledge Base Writing",
+          "Customer Communication",
+          "Ticketing Systems"
+        ],
+        "location": "London, UK",
+        "employment_type": "Remote"
+      },
+      {
+        "role": "Machine Learning Engineer",
+        "seniority": "Manager",
+        "skills": [
+          "Performance Monitoring",
+          "Scikit-learn",
+          "NLP",
+          "CV",
+          "PyTorch",
+          "TensorFlow",
+          "MLOps",
+          "CI"
+        ],
+        "location": "Pune, India",
+        "employment_type": "Part-time"
+      },
+      {
+        "role": "Solutions Architect",
+        "seniority": "Principal",
+        "skills": [
+          "System Architecture",
+          "Integration Patterns",
+          "Security",
+          "Cost Estimation",
+          "Cloud Design",
+          "Stakeholder Communication"
+        ],
+        "location": "Gurgaon, India",
+        "employment_type": "Part-time"
+      },
+      {
+        "role": "UI/UX Designer",
+        "seniority": "Principal",
+        "skills": [
+          "Usability Testing",
+          "Prototyping",
+          "Figma",
+          "Sketch",
+          "User Research",
+          "Visual Design",
+          "Design Systems",
+          "Interaction Design"
+        ],
+        "location": "Chennai, India",
+        "employment_type": "Full-time"
+      }
+    ]
+  },
+  {
+    "company": "Oracle",
+    "industry": "Hardware",
+    "company_size": "2001-10000",
+    "job_roles": [
+      {
+        "role": "DevOps Engineer",
+        "seniority": "Junior",
+        "skills": [
+          "Security best practices",
+          "Monitoring & Logging",
+          "Kubernetes",
+          "Scripting",
+          "Bash",
+          "Python",
+          "Docker",
+          "Cloud",
+          "AWS",
+          "Azure",
+          "GCP"
+        ],
+        "location": "Bengaluru, India",
+        "employment_type": "Contract"
+      },
+      {
+        "role": "Software Engineer",
+        "seniority": "Junior",
+        "skills": [
+          "Data Structures & Algorithms",
+          "Unit Testing",
+          "Programming",
+          "Java",
+          "Python",
+          "C++",
+          "System Design",
+          "APIs",
+          "REST",
+          "Agile",
+          "Scrum",
+          "Git"
+        ],
+        "location": "London, UK",
+        "employment_type": "Contract"
+      },
+      {
+        "role": "Network Engineer",
+        "seniority": "Internship",
+        "skills": [
+          "Network Troubleshooting",
+          "Monitoring",
+          "Load Balancers",
+          "Scripting",
+          "Routing & Switching"
+        ],
+        "location": "Gurgaon, India",
+        "employment_type": "Remote"
+      },
+      {
+        "role": "Data Scientist",
+        "seniority": "Manager",
+        "skills": [
+          "Data Visualization",
+          "Python",
+          "R",
+          "Feature Engineering",
+          "Machine Learning",
+          "SQL",
+          "Statistics",
+          "Model Evaluation",
+          "Data Cleaning"
+        ],
+        "location": "Gurgaon, India",
+        "employment_type": "Part-time"
+      },
+      {
+        "role": "Cloud Engineer",
+        "seniority": "Director",
+        "skills": [
+          "Security",
+          "Cloud Architecture",
+          "Cost Optimization",
+          "Networking in Cloud",
+          "Containerization",
+          "IaC",
+          "Terraform"
+        ],
+        "location": "Seattle, USA",
+        "employment_type": "Part-time"
+      },
+      {
+        "role": "Cybersecurity Engineer",
+        "seniority": "Director",
+        "skills": [
+          "Identity & Access Management",
+          "SIEM",
+          "Penetration Testing",
+          "Secure Architecture",
+          "Vulnerability Management",
+          "Security Automation",
+          "Encryption"
+        ],
+        "location": "London, UK",
+        "employment_type": "Remote"
+      },
+      {
+        "role": "Site Reliability Engineer",
+        "seniority": "Lead",
+        "skills": [
+          "Automation",
+          "Monitoring & Alerting",
+          "Capacity Planning",
+          "SRE Principles",
+          "Kubernetes",
+          "Docker",
+          "Chaos Engineering",
+          "Performance Tuning",
+          "Incident Management"
+        ],
+        "location": "Gurgaon, India",
+        "employment_type": "Internship"
+      },
+      {
+        "role": "Full Stack Developer",
+        "seniority": "Director",
+        "skills": [
+          "Frontend Frameworks",
+          "DevOps Basics",
+          "Backend Frameworks",
+          "Testing",
+          "CI",
+          "CD",
+          "Databases",
+          "RESTful APIs"
+        ],
+        "location": "New York, USA",
+        "employment_type": "Contract"
+      }
+    ]
+  },
+  {
+    "company": "Salesforce",
+    "industry": "Hardware",
+    "company_size": "501-2000",
+    "job_roles": [
+      {
+        "role": "Software Engineer",
+        "seniority": "Lead",
+        "skills": [
+          "Databases",
+          "SQL",
+          "NoSQL",
+          "Git",
+          "Unit Testing",
+          "System Design",
+          "Agile",
+          "Scrum",
+          "APIs",
+          "REST",
+          "Data Structures & Algorithms",
+          "Large-scale system design"
+        ],
+        "location": "Chennai, India",
+        "employment_type": "Full-time"
+      },
+      {
+        "role": "Backend Developer",
+        "seniority": "Director",
+        "skills": [
+          "Microservices",
+          "Server-side languages",
+          "Java",
+          "Python",
+          "Node.js",
+          "Unit & Integration Testing",
+          "Caching",
+          "Database Design",
+          "Message Queues",
+          "Large-scale system design"
+        ],
+        "location": "Noida, India",
+        "employment_type": "Remote"
+      },
+      {
+        "role": "Product Manager",
+        "seniority": "Associate",
+        "skills": [
+          "User Research",
+          "Agile",
+          "UX Familiarity",
+          "Roadmapping",
+          "Metrics",
+          "Analytics",
+          "Prioritization",
+          "Product Strategy",
+          "Large-scale system design"
+        ],
+        "location": "Noida, India",
+        "employment_type": "Full-time"
+      },
+      {
+        "role": "Cloud Engineer",
+        "seniority": "Lead",
+        "skills": [
+          "Networking in Cloud",
+          "Cost Optimization",
+          "Cloud Architecture",
+          "IaC",
+          "Terraform",
+          "AWS",
+          "Azure",
+          "GCP"
+        ],
+        "location": "Seattle, USA",
+        "employment_type": "Part-time"
+      },
+      {
+        "role": "Business Analyst",
+        "seniority": "Internship",
+        "skills": [
+          "UML",
+          "Process Modelling",
+          "Data Analysis",
+          "Requirements Gathering",
+          "SQL",
+          "Stakeholder Management",
+          "Reporting",
+          "Documentation",
+          "Excel",
+          "Sheets",
+          "Large-scale system design"
+        ],
+        "location": "Pune, India",
+        "employment_type": "Contract"
+      },
+      {
+        "role": "Network Engineer",
+        "seniority": "Manager",
+        "skills": [
+          "Network Protocols",
+          "TCP",
+          "IP",
+          "Scripting",
+          "Routing & Switching",
+          "Network Troubleshooting",
+          "VPN",
+          "Firewalls",
+          "Load Balancers"
+        ],
+        "location": "Seattle, USA",
+        "employment_type": "Part-time"
+      },
+      {
+        "role": "Cybersecurity Engineer",
+        "seniority": "Senior",
+        "skills": [
+          "SIEM",
+          "Vulnerability Management",
+          "Encryption",
+          "Identity & Access Management",
+          "Secure Architecture",
+          "Security Automation",
+          "Threat Modeling"
+        ],
+        "location": "Berlin, Germany",
+        "employment_type": "Contract"
+      },
+      {
+        "role": "UI/UX Designer",
+        "seniority": "Director",
+        "skills": [
+          "Wireframing",
+          "Design Systems",
+          "Usability Testing",
+          "Visual Design",
+          "Figma",
+          "Sketch",
+          "User Research",
+          "Prototyping",
+          "Large-scale system design"
+        ],
+        "location": "Noida, India",
+        "employment_type": "Full-time"
+      },
+      {
+        "role": "AI Researcher",
+        "seniority": "Senior",
+        "skills": [
+          "PyTorch",
+          "TensorFlow",
+          "Publication Track Record",
+          "NLP",
+          "CV",
+          "Mathematics",
+          "Linear Algebra",
+          "Probability",
+          "Deep Learning",
+          "Experimentation"
+        ],
+        "location": "San Francisco, USA",
+        "employment_type": "Full-time"
+      },
+      {
+        "role": "Data Engineer",
+        "seniority": "Lead",
+        "skills": [
+          "Airflow",
+          "Cloud Data Services",
+          "Spark",
+          "ETL",
+          "Pipelines",
+          "NoSQL",
+          "SQL"
+        ],
+        "location": "Seattle, USA",
+        "employment_type": "Full-time"
+      }
+    ]
+  },
+  {
+    "company": "Adobe",
+    "industry": "EdTech",
+    "company_size": "201-500",
+    "job_roles": [
+      {
+        "role": "Data Engineer",
+        "seniority": "Associate",
+        "skills": [
+          "ETL",
+          "Pipelines",
+          "Cloud Data Services",
+          "Spark",
+          "NoSQL",
+          "Python",
+          "Scala",
+          "Airflow",
+          "Data Warehousing"
+        ],
+        "location": "Seattle, USA",
+        "employment_type": "Remote"
+      },
+      {
+        "role": "Database Administrator",
+        "seniority": "Principal",
+        "skills": [
+          "Database Design",
+          "Backup & Recovery",
+          "NoSQL familiarity",
+          "Indexing",
+          "Performance Monitoring",
+          "SQL Tuning",
+          "Security",
+          "Replication",
+          "Large-scale system design"
+        ],
+        "location": "Berlin, Germany",
+        "employment_type": "Full-time"
+      },
+      {
+        "role": "AI Researcher",
+        "seniority": "Internship",
+        "skills": [
+          "PyTorch",
+          "TensorFlow",
+          "Mathematics",
+          "Linear Algebra",
+          "Probability",
+          "Publication Track Record",
+          "NLP",
+          "CV",
+          "Experimentation",
+          "Research Papers"
+        ],
+        "location": "Seattle, USA",
+        "employment_type": "Full-time"
+      },
+      {
+        "role": "Site Reliability Engineer",
+        "seniority": "Senior",
+        "skills": [
+          "Incident Management",
+          "SRE Principles",
+          "Monitoring & Alerting",
+          "Capacity Planning",
+          "Automation",
+          "Performance Tuning",
+          "Kubernetes",
+          "Docker",
+          "Large-scale system design"
+        ],
+        "location": "New York, USA",
+        "employment_type": "Internship"
+      },
+      {
+        "role": "Security Analyst",
+        "seniority": "Director",
+        "skills": [
+          "Pen Testing basics",
+          "Compliance",
+          "Network Security",
+          "Threat Detection",
+          "SIEM",
+          "Vulnerability Assessment",
+          "Firewalls",
+          "IDS",
+          "IPS",
+          "Incident Response",
+          "Large-scale system design"
+        ],
+        "location": "Hyderabad, India",
+        "employment_type": "Full-time"
+      },
+      {
+        "role": "Backend Developer",
+        "seniority": "Junior",
+        "skills": [
+          "API Design",
+          "Unit & Integration Testing",
+          "Caching",
+          "Server-side languages",
+          "Java",
+          "Python",
+          "Node.js",
+          "Authentication & Authorization",
+          "Microservices",
+          "Large-scale system design"
+        ],
+        "location": "Seattle, USA",
+        "employment_type": "Full-time"
+      },
+      {
+        "role": "Frontend Developer",
+        "seniority": "Director",
+        "skills": [
+          "UI",
+          "UX basics",
+          "Cross-browser Testing",
+          "Responsive Design",
+          "Accessibility",
+          "Version Control",
+          "Git",
+          "React",
+          "Angular",
+          "Vue"
+        ],
+        "location": "Chennai, India",
+        "employment_type": "Part-time"
+      },
+      {
+        "role": "Data Analyst",
+        "seniority": "Manager",
+        "skills": [
+          "Data Cleaning",
+          "Excel",
+          "Reporting",
+          "Python",
+          "R",
+          "Dashboards",
+          "SQL",
+          "Large-scale system design"
+        ],
+        "location": "Gurgaon, India",
+        "employment_type": "Remote"
+      },
+      {
+        "role": "UI/UX Designer",
+        "seniority": "Principal",
+        "skills": [
+          "Figma",
+          "Sketch",
+          "Prototyping",
+          "Visual Design",
+          "Usability Testing",
+          "User Research",
+          "Design Systems",
+          "Wireframing"
+        ],
+        "location": "Gurgaon, India",
+        "employment_type": "Remote"
+      },
+      {
+        "role": "Machine Learning Engineer",
+        "seniority": "Director",
+        "skills": [
+          "NLP",
+          "CV",
+          "Data Pipelines",
+          "Model Deployment",
+          "MLOps",
+          "CI",
+          "Hyperparameter Tuning",
+          "PyTorch",
+          "TensorFlow",
+          "Scikit-learn",
+          "Performance Monitoring",
+          "Large-scale system design"
+        ],
+        "location": "Toronto, Canada",
+        "employment_type": "Part-time"
+      }
+    ]
+  },
+  {
+    "company": "Intel",
+    "industry": "IT Services",
+    "company_size": "10000+",
+    "job_roles": [
+      {
+        "role": "Frontend Developer",
+        "seniority": "Lead",
+        "skills": [
+          "Responsive Design",
+          "Web Performance",
+          "Cross-browser Testing",
+          "React",
+          "Angular",
+          "Vue",
+          "HTML",
+          "CSS",
+          "JS",
+          "Large-scale system design"
+        ],
+        "location": "Gurgaon, India",
+        "employment_type": "Remote"
+      },
+      {
+        "role": "Data Scientist",
+        "seniority": "Senior",
+        "skills": [
+          "Statistics",
+          "SQL",
+          "Machine Learning",
+          "Feature Engineering",
+          "Data Cleaning",
+          "Model Evaluation",
+          "Data Visualization",
+          "Python",
+          "R"
+        ],
+        "location": "Berlin, Germany",
+        "employment_type": "Internship"
+      },
+      {
+        "role": "Database Administrator",
+        "seniority": "Internship",
+        "skills": [
+          "Backup & Recovery",
+          "Indexing",
+          "SQL Tuning",
+          "Performance Monitoring",
+          "Security",
+          "Database Design"
+        ],
+        "location": "Bengaluru, India",
+        "employment_type": "Internship"
+      },
+      {
+        "role": "Mobile Developer",
+        "seniority": "Manager",
+        "skills": [
+          "UI",
+          "UX for Mobile",
+          "App Store",
+          "Play Store knowledge",
+          "Testing",
+          "APIs",
+          "Android",
+          "Kotlin",
+          "Java",
+          "or iOS",
+          "Swift",
+          "Large-scale system design"
+        ],
+        "location": "London, UK",
+        "employment_type": "Contract"
+      },
+      {
+        "role": "Quality Assurance Engineer",
+        "seniority": "Associate",
+        "skills": [
+          "Automation",
+          "Selenium",
+          "Cypress",
+          "Test Planning",
+          "Regression Testing",
+          "API Testing",
+          "Manual Testing",
+          "Bug Tracking",
+          "JIRA"
+        ],
+        "location": "Chennai, India",
+        "employment_type": "Part-time"
+      },
+      {
+        "role": "Full Stack Developer",
+        "seniority": "Principal",
+        "skills": [
+          "Testing",
+          "Databases",
+          "CI",
+          "CD",
+          "Frontend Frameworks",
+          "RESTful APIs",
+          "Backend Frameworks",
+          "DevOps Basics",
+          "Large-scale system design"
+        ],
+        "location": "London, UK",
+        "employment_type": "Internship"
+      },
+      {
+        "role": "Security Analyst",
+        "seniority": "Principal",
+        "skills": [
+          "Incident Response",
+          "Vulnerability Assessment",
+          "SIEM",
+          "Threat Detection",
+          "Compliance",
+          "Pen Testing basics",
+          "Network Security",
+          "Firewalls",
+          "IDS",
+          "IPS",
+          "Large-scale system design"
+        ],
+        "location": "London, UK",
+        "employment_type": "Internship"
+      },
+      {
+        "role": "AI Researcher",
+        "seniority": "Lead",
+        "skills": [
+          "Deep Learning",
+          "Publication Track Record",
+          "Mathematics",
+          "Linear Algebra",
+          "Probability",
+          "PyTorch",
+          "TensorFlow",
+          "NLP",
+          "CV",
+          "Experimentation",
+          "Research Papers"
+        ],
+        "location": "Bengaluru, India",
+        "employment_type": "Contract"
+      },
+      {
+        "role": "Data Engineer",
+        "seniority": "Internship",
+        "skills": [
+          "SQL",
+          "Data Warehousing",
+          "Spark",
+          "NoSQL",
+          "Airflow",
+          "Cloud Data Services",
+          "ETL",
+          "Pipelines"
+        ],
+        "location": "Noida, India",
+        "employment_type": "Part-time"
+      },
+      {
+        "role": "Cloud Engineer",
+        "seniority": "Manager",
+        "skills": [
+          "Cost Optimization",
+          "Monitoring",
+          "Cloud Architecture",
+          "AWS",
+          "Azure",
+          "GCP",
+          "Containerization",
+          "Large-scale system design"
+        ],
+        "location": "Pune, India",
+        "employment_type": "Contract"
+      }
+    ]
+  },
+  {
+    "company": "TCS",
+    "industry": "IT Services",
+    "company_size": "1-50",
+    "job_roles": [
+      {
+        "role": "Database Administrator",
+        "seniority": "Principal",
+        "skills": [
+          "NoSQL familiarity",
+          "SQL Tuning",
+          "Backup & Recovery",
+          "Performance Monitoring",
+          "Indexing"
+        ],
+        "location": "Hyderabad, India",
+        "employment_type": "Part-time"
+      },
+      {
+        "role": "Solutions Architect",
+        "seniority": "Lead",
+        "skills": [
+          "Scalability & Performance",
+          "Documentation",
+          "System Architecture",
+          "Security",
+          "Integration Patterns"
+        ],
+        "location": "London, UK",
+        "employment_type": "Part-time"
+      },
+      {
+        "role": "Data Engineer",
+        "seniority": "Senior",
+        "skills": [
+          "Spark",
+          "Data Warehousing",
+          "Cloud Data Services",
+          "SQL",
+          "ETL",
+          "Pipelines",
+          "Airflow",
+          "Python",
+          "Scala"
+        ],
+        "location": "Berlin, Germany",
+        "employment_type": "Full-time"
+      },
+      {
+        "role": "Machine Learning Engineer",
+        "seniority": "Junior",
+        "skills": [
+          "Scikit-learn",
+          "MLOps",
+          "CI",
+          "Hyperparameter Tuning",
+          "PyTorch",
+          "TensorFlow",
+          "Model Deployment",
+          "NLP",
+          "CV",
+          "Data Pipelines",
+          "Performance Monitoring"
+        ],
+        "location": "Hyderabad, India",
+        "employment_type": "Contract"
+      },
+      {
+        "role": "Cybersecurity Engineer",
+        "seniority": "Associate",
+        "skills": [
+          "SIEM",
+          "Threat Modeling",
+          "Vulnerability Management",
+          "Encryption",
+          "Security Automation",
+          "Identity & Access Management"
+        ],
+        "location": "San Francisco, USA",
+        "employment_type": "Full-time"
+      },
+      {
+        "role": "Site Reliability Engineer",
+        "seniority": "Junior",
+        "skills": [
+          "Performance Tuning",
+          "SRE Principles",
+          "Monitoring & Alerting",
+          "Chaos Engineering",
+          "Kubernetes",
+          "Docker",
+          "Capacity Planning",
+          "Incident Management",
+          "Automation"
+        ],
+        "location": "Berlin, Germany",
+        "employment_type": "Internship"
+      },
+      {
+        "role": "Product Manager",
+        "seniority": "Internship",
+        "skills": [
+          "Product Strategy",
+          "Prioritization",
+          "Roadmapping",
+          "User Research",
+          "UX Familiarity",
+          "Stakeholder Communication",
+          "Agile"
+        ],
+        "location": "Bengaluru, India",
+        "employment_type": "Internship"
+      },
+      {
+        "role": "Quality Assurance Engineer",
+        "seniority": "Senior",
+        "skills": [
+          "Automation",
+          "Selenium",
+          "Cypress",
+          "Test Case Design",
+          "Regression Testing",
+          "Manual Testing",
+          "Test Planning",
+          "CI Integration",
+          "Client-facing communication"
+        ],
+        "location": "Remote",
+        "employment_type": "Contract"
+      },
+      {
+        "role": "Business Analyst",
+        "seniority": "Associate",
+        "skills": [
+          "SQL",
+          "Excel",
+          "Sheets",
+          "Documentation",
+          "Requirements Gathering",
+          "Reporting",
+          "UML",
+          "Process Modelling",
+          "Stakeholder Management"
+        ],
+        "location": "Hyderabad, India",
+        "employment_type": "Full-time"
+      }
+    ]
+  },
+  {
+    "company": "Infosys",
+    "industry": "FinTech",
+    "company_size": "501-2000",
+    "job_roles": [
+      {
+        "role": "Cloud Engineer",
+        "seniority": "Internship",
+        "skills": [
+          "Cloud Architecture",
+          "Cost Optimization",
+          "AWS",
+          "Azure",
+          "GCP",
+          "IaC",
+          "Terraform",
+          "Networking in Cloud",
+          "Monitoring",
+          "Security",
+          "Containerization"
+        ],
+        "location": "Toronto, Canada",
+        "employment_type": "Remote"
+      },
+      {
+        "role": "Mobile Developer",
+        "seniority": "Director",
+        "skills": [
+          "APIs",
+          "Testing",
+          "Android",
+          "Kotlin",
+          "Java",
+          "or iOS",
+          "Swift",
+          "Performance Optimization",
+          "Mobile Architectures",
+          "UI",
+          "UX for Mobile",
+          "App Store",
+          "Play Store knowledge"
+        ],
+        "location": "Toronto, Canada",
+        "employment_type": "Part-time"
+      },
+      {
+        "role": "Quality Assurance Engineer",
+        "seniority": "Principal",
+        "skills": [
+          "Manual Testing",
+          "Automation",
+          "Selenium",
+          "Cypress",
+          "Regression Testing",
+          "CI Integration",
+          "Test Planning",
+          "Client-facing communication"
+        ],
+        "location": "San Francisco, USA",
+        "employment_type": "Remote"
+      },
+      {
+        "role": "Software Engineer",
+        "seniority": "Senior",
+        "skills": [
+          "Agile",
+          "Scrum",
+          "Unit Testing",
+          "Databases",
+          "SQL",
+          "NoSQL",
+          "APIs",
+          "REST",
+          "Programming",
+          "Java",
+          "Python",
+          "C++",
+          "System Design",
+          "Git"
+        ],
+        "location": "San Francisco, USA",
+        "employment_type": "Part-time"
+      },
+      {
+        "role": "Machine Learning Engineer",
+        "seniority": "Manager",
+        "skills": [
+          "Performance Monitoring",
+          "Data Pipelines",
+          "Hyperparameter Tuning",
+          "MLOps",
+          "CI",
+          "Scikit-learn",
+          "NLP",
+          "CV",
+          "Client-facing communication"
+        ],
+        "location": "Gurgaon, India",
+        "employment_type": "Internship"
+      },
+      {
+        "role": "Data Engineer",
+        "seniority": "Principal",
+        "skills": [
+          "Airflow",
+          "Data Warehousing",
+          "SQL",
+          "ETL",
+          "Pipelines",
+          "NoSQL",
+          "Python",
+          "Scala",
+          "Cloud Data Services"
+        ],
+        "location": "Bengaluru, India",
+        "employment_type": "Contract"
+      },
+      {
+        "role": "Frontend Developer",
+        "seniority": "Manager",
+        "skills": [
+          "Cross-browser Testing",
+          "UI",
+          "UX basics",
+          "HTML",
+          "CSS",
+          "JS",
+          "Web Performance",
+          "Responsive Design"
+        ],
+        "location": "Remote",
+        "employment_type": "Full-time"
+      },
+      {
+        "role": "Data Scientist",
+        "seniority": "Junior",
+        "skills": [
+          "Feature Engineering",
+          "Machine Learning",
+          "Python",
+          "R",
+          "Model Evaluation",
+          "Statistics",
+          "Data Visualization",
+          "Data Cleaning",
+          "Client-facing communication"
+        ],
+        "location": "Gurgaon, India",
+        "employment_type": "Remote"
+      },
+      {
+        "role": "UI/UX Designer",
+        "seniority": "Lead",
+        "skills": [
+          "Wireframing",
+          "Usability Testing",
+          "Prototyping",
+          "Interaction Design",
+          "Design Systems",
+          "User Research",
+          "Figma",
+          "Sketch"
+        ],
+        "location": "Bengaluru, India",
+        "employment_type": "Contract"
+      }
+    ]
+  },
+  {
+    "company": "Wipro",
+    "industry": "Consulting",
+    "company_size": "501-2000",
+    "job_roles": [
+      {
+        "role": "UI/UX Designer",
+        "seniority": "Principal",
+        "skills": [
+          "Wireframing",
+          "Visual Design",
+          "Interaction Design",
+          "Design Systems",
+          "User Research"
+        ],
+        "location": "Pune, India",
+        "employment_type": "Internship"
+      },
+      {
+        "role": "Software Engineer",
+        "seniority": "Internship",
+        "skills": [
+          "Git",
+          "Databases",
+          "SQL",
+          "NoSQL",
+          "Unit Testing",
+          "Agile",
+          "Scrum",
+          "Programming",
+          "Java",
+          "Python",
+          "C++",
+          "APIs",
+          "REST",
+          "System Design",
+          "Client-facing communication"
+        ],
+        "location": "Berlin, Germany",
+        "employment_type": "Full-time"
+      },
+      {
+        "role": "Machine Learning Engineer",
+        "seniority": "Junior",
+        "skills": [
+          "NLP",
+          "CV",
+          "MLOps",
+          "CI",
+          "Hyperparameter Tuning",
+          "Performance Monitoring",
+          "Scikit-learn",
+          "Model Deployment",
+          "Data Pipelines",
+          "Client-facing communication"
+        ],
+        "location": "Gurgaon, India",
+        "employment_type": "Part-time"
+      },
+      {
+        "role": "Data Scientist",
+        "seniority": "Lead",
+        "skills": [
+          "Feature Engineering",
+          "Data Visualization",
+          "SQL",
+          "Model Evaluation",
+          "Data Cleaning"
+        ],
+        "location": "Bengaluru, India",
+        "employment_type": "Contract"
+      },
+      {
+        "role": "Mobile Developer",
+        "seniority": "Lead",
+        "skills": [
+          "Performance Optimization",
+          "Android",
+          "Kotlin",
+          "Java",
+          "or iOS",
+          "Swift",
+          "Testing",
+          "Mobile Architectures",
+          "APIs",
+          "App Store",
+          "Play Store knowledge",
+          "UI",
+          "UX for Mobile"
+        ],
+        "location": "Gurgaon, India",
+        "employment_type": "Full-time"
+      },
+      {
+        "role": "Business Analyst",
+        "seniority": "Senior",
+        "skills": [
+          "Reporting",
+          "UML",
+          "Process Modelling",
+          "Stakeholder Management",
+          "Data Analysis",
+          "Documentation",
+          "Client-facing communication"
+        ],
+        "location": "New York, USA",
+        "employment_type": "Remote"
+      },
+      {
+        "role": "Backend Developer",
+        "seniority": "Principal",
+        "skills": [
+          "Database Design",
+          "Authentication & Authorization",
+          "Microservices",
+          "Server-side languages",
+          "Java",
+          "Python",
+          "Node.js",
+          "Message Queues",
+          "Caching",
+          "Unit & Integration Testing"
+        ],
+        "location": "London, UK",
+        "employment_type": "Part-time"
+      },
+      {
+        "role": "Network Engineer",
+        "seniority": "Principal",
+        "skills": [
+          "Monitoring",
+          "Firewalls",
+          "Routing & Switching",
+          "VPN",
+          "Load Balancers",
+          "Network Protocols",
+          "TCP",
+          "IP",
+          "Network Troubleshooting",
+          "Scripting"
+        ],
+        "location": "Hyderabad, India",
+        "employment_type": "Part-time"
+      },
+      {
+        "role": "Solutions Architect",
+        "seniority": "Lead",
+        "skills": [
+          "Security",
+          "Documentation",
+          "Scalability & Performance",
+          "Cost Estimation",
+          "System Architecture",
+          "Client-facing communication"
+        ],
+        "location": "Toronto, Canada",
+        "employment_type": "Internship"
+      }
+    ]
+  },
+  {
+    "company": "HCLTech",
+    "industry": "E-commerce",
+    "company_size": "501-2000",
+    "job_roles": [
+      {
+        "role": "Backend Developer",
+        "seniority": "Junior",
+        "skills": [
+          "API Design",
+          "Database Design",
+          "Server-side languages",
+          "Java",
+          "Python",
+          "Node.js",
+          "Message Queues",
+          "Unit & Integration Testing",
+          "Microservices",
+          "Authentication & Authorization"
+        ],
+        "location": "Pune, India",
+        "employment_type": "Part-time"
+      },
+      {
+        "role": "Database Administrator",
+        "seniority": "Director",
+        "skills": [
+          "NoSQL familiarity",
+          "Performance Monitoring",
+          "Database Design",
+          "Security",
+          "Replication",
+          "Indexing",
+          "Backup & Recovery",
+          "SQL Tuning"
+        ],
+        "location": "Seattle, USA",
+        "employment_type": "Internship"
+      },
+      {
+        "role": "Cybersecurity Engineer",
+        "seniority": "Principal",
+        "skills": [
+          "Secure Architecture",
+          "Vulnerability Management",
+          "Encryption",
+          "Security Automation",
+          "SIEM",
+          "Penetration Testing",
+          "Threat Modeling",
+          "Client-facing communication"
+        ],
+        "location": "Remote",
+        "employment_type": "Internship"
+      },
+      {
+        "role": "Full Stack Developer",
+        "seniority": "Internship",
+        "skills": [
+          "Backend Frameworks",
+          "DevOps Basics",
+          "Version Control",
+          "CI",
+          "CD",
+          "RESTful APIs"
+        ],
+        "location": "Seattle, USA",
+        "employment_type": "Remote"
+      },
+      {
+        "role": "Technical Support Engineer",
+        "seniority": "Principal",
+        "skills": [
+          "Product Knowledge",
+          "Ticketing Systems",
+          "Logging & Monitoring",
+          "Customer Communication",
+          "Troubleshooting",
+          "Scripting",
+          "for automation",
+          "Client-facing communication"
+        ],
+        "location": "Toronto, Canada",
+        "employment_type": "Full-time"
+      },
+      {
+        "role": "Mobile Developer",
+        "seniority": "Lead",
+        "skills": [
+          "Android",
+          "Kotlin",
+          "Java",
+          "or iOS",
+          "Swift",
+          "Mobile Architectures",
+          "APIs",
+          "Performance Optimization",
+          "UI",
+          "UX for Mobile",
+          "App Store",
+          "Play Store knowledge",
+          "Client-facing communication"
+        ],
+        "location": "San Francisco, USA",
+        "employment_type": "Part-time"
+      },
+      {
+        "role": "DevOps Engineer",
+        "seniority": "Manager",
+        "skills": [
+          "CI",
+          "CD",
+          "Jenkins",
+          "GitLab CI",
+          "Scripting",
+          "Bash",
+          "Python",
+          "Monitoring & Logging",
+          "Kubernetes",
+          "Security best practices",
+          "Docker",
+          "Terraform",
+          "Ansible"
+        ],
+        "location": "Noida, India",
+        "employment_type": "Internship"
+      },
+      {
+        "role": "UI/UX Designer",
+        "seniority": "Manager",
+        "skills": [
+          "Visual Design",
+          "Figma",
+          "Sketch",
+          "Interaction Design",
+          "Wireframing",
+          "Prototyping",
+          "Design Systems"
+        ],
+        "location": "Pune, India",
+        "employment_type": "Remote"
+      }
+    ]
+  },
+  {
+    "company": "Accenture",
+    "industry": "Product",
+    "company_size": "201-500",
+    "job_roles": [
+      {
+        "role": "Cybersecurity Engineer",
+        "seniority": "Lead",
+        "skills": [
+          "Vulnerability Management",
+          "Penetration Testing",
+          "Security Automation",
+          "Threat Modeling",
+          "SIEM",
+          "Secure Architecture",
+          "Identity & Access Management",
+          "Client-facing communication"
+        ],
+        "location": "Remote",
+        "employment_type": "Full-time"
+      },
+      {
+        "role": "Quality Assurance Engineer",
+        "seniority": "Associate",
+        "skills": [
+          "Bug Tracking",
+          "JIRA",
+          "Test Case Design",
+          "Regression Testing",
+          "Manual Testing",
+          "API Testing",
+          "Client-facing communication"
+        ],
+        "location": "Remote",
+        "employment_type": "Remote"
+      },
+      {
+        "role": "Data Scientist",
+        "seniority": "Director",
+        "skills": [
+          "Model Evaluation",
+          "Python",
+          "R",
+          "Data Cleaning",
+          "Machine Learning",
+          "Statistics",
+          "Data Visualization"
+        ],
+        "location": "Chennai, India",
+        "employment_type": "Remote"
+      },
+      {
+        "role": "Database Administrator",
+        "seniority": "Director",
+        "skills": [
+          "Database Design",
+          "Security",
+          "Indexing",
+          "Backup & Recovery",
+          "Replication",
+          "Performance Monitoring"
+        ],
+        "location": "Seattle, USA",
+        "employment_type": "Internship"
+      },
+      {
+        "role": "Backend Developer",
+        "seniority": "Junior",
+        "skills": [
+          "Message Queues",
+          "Database Design",
+          "Unit & Integration Testing",
+          "Caching",
+          "Microservices",
+          "Authentication & Authorization",
+          "Server-side languages",
+          "Java",
+          "Python",
+          "Node.js",
+          "API Design"
+        ],
+        "location": "Toronto, Canada",
+        "employment_type": "Remote"
+      },
+      {
+        "role": "Data Analyst",
+        "seniority": "Associate",
+        "skills": [
+          "Reporting",
+          "SQL",
+          "Excel",
+          "Data Visualization",
+          "Tableau",
+          "PowerBI",
+          "Statistics"
+        ],
+        "location": "Remote",
+        "employment_type": "Part-time"
+      },
+      {
+        "role": "Network Engineer",
+        "seniority": "Manager",
+        "skills": [
+          "VPN",
+          "Monitoring",
+          "Scripting",
+          "Firewalls",
+          "Routing & Switching"
+        ],
+        "location": "New York, USA",
+        "employment_type": "Internship"
+      },
+      {
+        "role": "UI/UX Designer",
+        "seniority": "Principal",
+        "skills": [
+          "Usability Testing",
+          "Figma",
+          "Sketch",
+          "Prototyping",
+          "Wireframing",
+          "Design Systems",
+          "Interaction Design"
+        ],
+        "location": "Bengaluru, India",
+        "employment_type": "Contract"
+      },
+      {
+        "role": "Software Engineer",
+        "seniority": "Junior",
+        "skills": [
+          "Programming",
+          "Java",
+          "Python",
+          "C++",
+          "System Design",
+          "APIs",
+          "REST",
+          "Data Structures & Algorithms",
+          "Git",
+          "Unit Testing"
+        ],
+        "location": "Bengaluru, India",
+        "employment_type": "Internship"
+      },
+      {
+        "role": "Machine Learning Engineer",
+        "seniority": "Senior",
+        "skills": [
+          "Data Pipelines",
+          "Scikit-learn",
+          "MLOps",
+          "CI",
+          "Performance Monitoring",
+          "Hyperparameter Tuning",
+          "PyTorch",
+          "TensorFlow"
+        ],
+        "location": "Noida, India",
+        "employment_type": "Full-time"
+      }
+    ]
+  },
+  {
+    "company": "Capgemini",
+    "industry": "Hardware",
+    "company_size": "1-50",
+    "job_roles": [
+      {
+        "role": "Cybersecurity Engineer",
+        "seniority": "Junior",
+        "skills": [
+          "SIEM",
+          "Secure Architecture",
+          "Encryption",
+          "Vulnerability Management",
+          "Penetration Testing",
+          "Identity & Access Management",
+          "Threat Modeling",
+          "Client-facing communication"
+        ],
+        "location": "New York, USA",
+        "employment_type": "Internship"
+      },
+      {
+        "role": "Network Engineer",
+        "seniority": "Lead",
+        "skills": [
+          "Routing & Switching",
+          "VPN",
+          "Monitoring",
+          "Scripting",
+          "Load Balancers"
+        ],
+        "location": "Toronto, Canada",
+        "employment_type": "Full-time"
+      },
+      {
+        "role": "Security Analyst",
+        "seniority": "Principal",
+        "skills": [
+          "Threat Detection",
+          "SIEM",
+          "Pen Testing basics",
+          "Network Security",
+          "Compliance",
+          "Incident Response",
+          "Vulnerability Assessment",
+          "Client-facing communication"
+        ],
+        "location": "Remote",
+        "employment_type": "Contract"
+      },
+      {
+        "role": "Backend Developer",
+        "seniority": "Internship",
+        "skills": [
+          "Unit & Integration Testing",
+          "Microservices",
+          "Database Design",
+          "Message Queues",
+          "Server-side languages",
+          "Java",
+          "Python",
+          "Node.js",
+          "API Design",
+          "Caching",
+          "Authentication & Authorization",
+          "Client-facing communication"
+        ],
+        "location": "Bengaluru, India",
+        "employment_type": "Contract"
+      },
+      {
+        "role": "Full Stack Developer",
+        "seniority": "Senior",
+        "skills": [
+          "CI",
+          "CD",
+          "Databases",
+          "DevOps Basics",
+          "RESTful APIs",
+          "Testing",
+          "Client-facing communication"
+        ],
+        "location": "Noida, India",
+        "employment_type": "Internship"
+      },
+      {
+        "role": "Site Reliability Engineer",
+        "seniority": "Director",
+        "skills": [
+          "Automation",
+          "SRE Principles",
+          "Monitoring & Alerting",
+          "Performance Tuning",
+          "Capacity Planning"
+        ],
+        "location": "San Francisco, USA",
+        "employment_type": "Internship"
+      },
+      {
+        "role": "Software Engineer",
+        "seniority": "Junior",
+        "skills": [
+          "Agile",
+          "Scrum",
+          "Git",
+          "APIs",
+          "REST",
+          "System Design",
+          "Unit Testing",
+          "Programming",
+          "Java",
+          "Python",
+          "C++"
+        ],
+        "location": "San Francisco, USA",
+        "employment_type": "Remote"
+      },
+      {
+        "role": "Cloud Engineer",
+        "seniority": "Director",
+        "skills": [
+          "Networking in Cloud",
+          "Containerization",
+          "AWS",
+          "Azure",
+          "GCP",
+          "Cost Optimization",
+          "Security",
+          "IaC",
+          "Terraform",
+          "Client-facing communication"
+        ],
+        "location": "London, UK",
+        "employment_type": "Part-time"
+      },
+      {
+        "role": "UI/UX Designer",
+        "seniority": "Lead",
+        "skills": [
+          "Design Systems",
+          "Prototyping",
+          "User Research",
+          "Figma",
+          "Sketch",
+          "Usability Testing",
+          "Visual Design"
+        ],
+        "location": "Berlin, Germany",
+        "employment_type": "Full-time"
+      },
+      {
+        "role": "Technical Support Engineer",
+        "seniority": "Associate",
+        "skills": [
+          "Scripting",
+          "for automation",
+          "Knowledge Base Writing",
+          "Logging & Monitoring",
+          "Product Knowledge",
+          "Ticketing Systems"
+        ],
+        "location": "Bengaluru, India",
+        "employment_type": "Contract"
+      }
+    ]
+  },
+  {
+    "company": "Cognizant",
+    "industry": "Consulting",
+    "company_size": "501-2000",
+    "job_roles": [
+      {
+        "role": "Backend Developer",
+        "seniority": "Lead",
+        "skills": [
+          "Microservices",
+          "API Design",
+          "Authentication & Authorization",
+          "Server-side languages",
+          "Java",
+          "Python",
+          "Node.js",
+          "Database Design",
+          "Message Queues",
+          "Unit & Integration Testing",
+          "Caching",
+          "Client-facing communication"
+        ],
+        "location": "Chennai, India",
+        "employment_type": "Full-time"
+      },
+      {
+        "role": "Cloud Engineer",
+        "seniority": "Lead",
+        "skills": [
+          "Containerization",
+          "IaC",
+          "Terraform",
+          "Networking in Cloud",
+          "Security",
+          "AWS",
+          "Azure",
+          "GCP",
+          "Client-facing communication"
+        ],
+        "location": "Toronto, Canada",
+        "employment_type": "Part-time"
+      },
+      {
+        "role": "Cybersecurity Engineer",
+        "seniority": "Director",
+        "skills": [
+          "Encryption",
+          "Identity & Access Management",
+          "Threat Modeling",
+          "Penetration Testing",
+          "Secure Architecture",
+          "SIEM"
+        ],
+        "location": "Pune, India",
+        "employment_type": "Part-time"
+      },
+      {
+        "role": "UI/UX Designer",
+        "seniority": "Associate",
+        "skills": [
+          "Visual Design",
+          "Design Systems",
+          "Prototyping",
+          "Figma",
+          "Sketch",
+          "Usability Testing"
+        ],
+        "location": "Toronto, Canada",
+        "employment_type": "Contract"
+      },
+      {
+        "role": "Network Engineer",
+        "seniority": "Principal",
+        "skills": [
+          "VPN",
+          "Routing & Switching",
+          "Network Protocols",
+          "TCP",
+          "IP",
+          "Load Balancers",
+          "Network Troubleshooting",
+          "Scripting",
+          "Monitoring",
+          "Client-facing communication"
+        ],
+        "location": "Seattle, USA",
+        "employment_type": "Remote"
+      },
+      {
+        "role": "Business Analyst",
+        "seniority": "Manager",
+        "skills": [
+          "Data Analysis",
+          "Requirements Gathering",
+          "SQL",
+          "Stakeholder Management",
+          "Documentation",
+          "UML",
+          "Process Modelling"
+        ],
+        "location": "Remote",
+        "employment_type": "Remote"
+      },
+      {
+        "role": "Frontend Developer",
+        "seniority": "Principal",
+        "skills": [
+          "Responsive Design",
+          "UI",
+          "UX basics",
+          "Cross-browser Testing",
+          "HTML",
+          "CSS",
+          "JS",
+          "Web Performance"
+        ],
+        "location": "Pune, India",
+        "employment_type": "Remote"
+      },
+      {
+        "role": "Data Scientist",
+        "seniority": "Associate",
+        "skills": [
+          "Machine Learning",
+          "Data Cleaning",
+          "Feature Engineering",
+          "Python",
+          "R",
+          "Data Visualization",
+          "Model Evaluation",
+          "Client-facing communication"
+        ],
+        "location": "Pune, India",
+        "employment_type": "Internship"
+      }
+    ]
+  },
+  {
+    "company": "Mindtree",
+    "industry": "FinTech",
+    "company_size": "10000+",
+    "job_roles": [
+      {
+        "role": "Backend Developer",
+        "seniority": "Internship",
+        "skills": [
+          "API Design",
+          "Database Design",
+          "Microservices",
+          "Caching",
+          "Unit & Integration Testing",
+          "Authentication & Authorization",
+          "Client-facing communication"
+        ],
+        "location": "Hyderabad, India",
+        "employment_type": "Full-time"
+      },
+      {
+        "role": "Data Engineer",
+        "seniority": "Lead",
+        "skills": [
+          "SQL",
+          "Python",
+          "Scala",
+          "NoSQL",
+          "Cloud Data Services",
+          "ETL",
+          "Pipelines",
+          "Spark",
+          "Airflow"
+        ],
+        "location": "Seattle, USA",
+        "employment_type": "Contract"
+      },
+      {
+        "role": "DevOps Engineer",
+        "seniority": "Principal",
+        "skills": [
+          "Cloud",
+          "AWS",
+          "Azure",
+          "GCP",
+          "Terraform",
+          "Ansible",
+          "CI",
+          "CD",
+          "Jenkins",
+          "GitLab CI",
+          "Monitoring & Logging",
+          "Docker",
+          "Scripting",
+          "Bash",
+          "Python",
+          "Kubernetes",
+          "Security best practices"
+        ],
+        "location": "London, UK",
+        "employment_type": "Contract"
+      },
+      {
+        "role": "AI Researcher",
+        "seniority": "Junior",
+        "skills": [
+          "NLP",
+          "CV",
+          "Publication Track Record",
+          "PyTorch",
+          "TensorFlow",
+          "Experimentation",
+          "Research Papers",
+          "Deep Learning",
+          "Mathematics",
+          "Linear Algebra",
+          "Probability"
+        ],
+        "location": "Gurgaon, India",
+        "employment_type": "Contract"
+      },
+      {
+        "role": "Technical Support Engineer",
+        "seniority": "Manager",
+        "skills": [
+          "Troubleshooting",
+          "Product Knowledge",
+          "Logging & Monitoring",
+          "Customer Communication",
+          "Knowledge Base Writing",
+          "Scripting",
+          "for automation",
+          "Ticketing Systems",
+          "Client-facing communication"
+        ],
+        "location": "Remote",
+        "employment_type": "Remote"
+      },
+      {
+        "role": "Data Scientist",
+        "seniority": "Director",
+        "skills": [
+          "Data Cleaning",
+          "SQL",
+          "Statistics",
+          "Machine Learning",
+          "Feature Engineering",
+          "Python",
+          "R",
+          "Model Evaluation",
+          "Data Visualization"
+        ],
+        "location": "Seattle, USA",
+        "employment_type": "Internship"
+      },
+      {
+        "role": "Product Manager",
+        "seniority": "Lead",
+        "skills": [
+          "Product Strategy",
+          "UX Familiarity",
+          "Prioritization",
+          "Stakeholder Communication",
+          "Metrics",
+          "Analytics",
+          "Agile",
+          "Roadmapping",
+          "User Research",
+          "Client-facing communication"
+        ],
+        "location": "Seattle, USA",
+        "employment_type": "Remote"
+      },
+      {
+        "role": "Solutions Architect",
+        "seniority": "Principal",
+        "skills": [
+          "Scalability & Performance",
+          "Documentation",
+          "System Architecture",
+          "Stakeholder Communication",
+          "Security",
+          "Cost Estimation",
+          "Cloud Design",
+          "Integration Patterns"
+        ],
+        "location": "Bengaluru, India",
+        "employment_type": "Part-time"
+      },
+      {
+        "role": "Mobile Developer",
+        "seniority": "Manager",
+        "skills": [
+          "Performance Optimization",
+          "App Store",
+          "Play Store knowledge",
+          "Mobile Architectures",
+          "UI",
+          "UX for Mobile",
+          "APIs",
+          "Client-facing communication"
+        ],
+        "location": "New York, USA",
+        "employment_type": "Part-time"
+      }
+    ]
+  },
+  {
+    "company": "Tech Mahindra",
+    "industry": "FinTech",
+    "company_size": "201-500",
+    "job_roles": [
+      {
+        "role": "Data Scientist",
+        "seniority": "Principal",
+        "skills": [
+          "Data Cleaning",
+          "Feature Engineering",
+          "SQL",
+          "Model Evaluation",
+          "Python",
+          "R",
+          "Data Visualization",
+          "Client-facing communication"
+        ],
+        "location": "Bengaluru, India",
+        "employment_type": "Part-time"
+      },
+      {
+        "role": "Full Stack Developer",
+        "seniority": "Lead",
+        "skills": [
+          "Databases",
+          "DevOps Basics",
+          "Version Control",
+          "Backend Frameworks",
+          "Testing",
+          "RESTful APIs",
+          "CI",
+          "CD",
+          "Frontend Frameworks",
+          "Client-facing communication"
+        ],
+        "location": "London, UK",
+        "employment_type": "Internship"
+      },
+      {
+        "role": "Business Analyst",
+        "seniority": "Internship",
+        "skills": [
+          "Documentation",
+          "Stakeholder Management",
+          "Requirements Gathering",
+          "SQL",
+          "Reporting",
+          "Excel",
+          "Sheets",
+          "UML",
+          "Process Modelling",
+          "Data Analysis"
+        ],
+        "location": "London, UK",
+        "employment_type": "Part-time"
+      },
+      {
+        "role": "UI/UX Designer",
+        "seniority": "Senior",
+        "skills": [
+          "User Research",
+          "Visual Design",
+          "Figma",
+          "Sketch",
+          "Interaction Design",
+          "Design Systems",
+          "Usability Testing",
+          "Wireframing",
+          "Client-facing communication"
+        ],
+        "location": "Bengaluru, India",
+        "employment_type": "Remote"
+      },
+      {
+        "role": "Quality Assurance Engineer",
+        "seniority": "Senior",
+        "skills": [
+          "API Testing",
+          "Test Planning",
+          "CI Integration",
+          "Automation",
+          "Selenium",
+          "Cypress",
+          "Bug Tracking",
+          "JIRA",
+          "Client-facing communication"
+        ],
+        "location": "San Francisco, USA",
+        "employment_type": "Remote"
+      },
+      {
+        "role": "AI Researcher",
+        "seniority": "Director",
+        "skills": [
+          "NLP",
+          "CV",
+          "Publication Track Record",
+          "Deep Learning",
+          "Research Papers",
+          "PyTorch",
+          "TensorFlow",
+          "Experimentation",
+          "Mathematics",
+          "Linear Algebra",
+          "Probability"
+        ],
+        "location": "New York, USA",
+        "employment_type": "Part-time"
+      },
+      {
+        "role": "Network Engineer",
+        "seniority": "Senior",
+        "skills": [
+          "Firewalls",
+          "VPN",
+          "Network Troubleshooting",
+          "Scripting",
+          "Load Balancers",
+          "Monitoring",
+          "Network Protocols",
+          "TCP",
+          "IP"
+        ],
+        "location": "Chennai, India",
+        "employment_type": "Internship"
+      }
+    ]
+  },
+  {
+    "company": "LTI Mindtree",
+    "industry": "EdTech",
+    "company_size": "201-500",
+    "job_roles": [
+      {
+        "role": "Product Manager",
+        "seniority": "Director",
+        "skills": [
+          "Agile",
+          "UX Familiarity",
+          "Roadmapping",
+          "User Research",
+          "Metrics",
+          "Analytics",
+          "Product Strategy",
+          "Stakeholder Communication",
+          "Prioritization",
+          "Client-facing communication"
+        ],
+        "location": "Berlin, Germany",
+        "employment_type": "Internship"
+      },
+      {
+        "role": "DevOps Engineer",
+        "seniority": "Senior",
+        "skills": [
+          "Terraform",
+          "Ansible",
+          "Docker",
+          "Cloud",
+          "AWS",
+          "Azure",
+          "GCP",
+          "Kubernetes",
+          "Monitoring & Logging",
+          "CI",
+          "CD",
+          "Jenkins",
+          "GitLab CI",
+          "Security best practices",
+          "Scripting",
+          "Bash",
+          "Python",
+          "Client-facing communication"
+        ],
+        "location": "Berlin, Germany",
+        "employment_type": "Contract"
+      },
+      {
+        "role": "Site Reliability Engineer",
+        "seniority": "Associate",
+        "skills": [
+          "Kubernetes",
+          "Docker",
+          "Capacity Planning",
+          "SRE Principles",
+          "Performance Tuning",
+          "Monitoring & Alerting"
+        ],
+        "location": "Bengaluru, India",
+        "employment_type": "Remote"
+      },
+      {
+        "role": "Quality Assurance Engineer",
+        "seniority": "Internship",
+        "skills": [
+          "Test Case Design",
+          "Bug Tracking",
+          "JIRA",
+          "API Testing",
+          "CI Integration",
+          "Manual Testing",
+          "Regression Testing",
+          "Client-facing communication"
+        ],
+        "location": "Bengaluru, India",
+        "employment_type": "Full-time"
+      },
+      {
+        "role": "Cybersecurity Engineer",
+        "seniority": "Associate",
+        "skills": [
+          "Secure Architecture",
+          "Penetration Testing",
+          "Threat Modeling",
+          "SIEM",
+          "Security Automation",
+          "Encryption"
+        ],
+        "location": "Toronto, Canada",
+        "employment_type": "Internship"
+      },
+      {
+        "role": "UI/UX Designer",
+        "seniority": "Principal",
+        "skills": [
+          "Figma",
+          "Sketch",
+          "Prototyping",
+          "Interaction Design",
+          "Visual Design",
+          "Design Systems"
+        ],
+        "location": "Noida, India",
+        "employment_type": "Part-time"
+      },
+      {
+        "role": "Data Engineer",
+        "seniority": "Director",
+        "skills": [
+          "Airflow",
+          "Python",
+          "Scala",
+          "NoSQL",
+          "SQL",
+          "Cloud Data Services",
+          "ETL",
+          "Pipelines",
+          "Data Warehousing",
+          "Spark",
+          "Client-facing communication"
+        ],
+        "location": "Berlin, Germany",
+        "employment_type": "Internship"
+      },
+      {
+        "role": "Solutions Architect",
+        "seniority": "Manager",
+        "skills": [
+          "System Architecture",
+          "Stakeholder Communication",
+          "Integration Patterns",
+          "Cost Estimation",
+          "Cloud Design",
+          "Documentation"
+        ],
+        "location": "Remote",
+        "employment_type": "Part-time"
+      },
+      {
+        "role": "Frontend Developer",
+        "seniority": "Senior",
+        "skills": [
+          "React",
+          "Angular",
+          "Vue",
+          "Web Performance",
+          "Cross-browser Testing",
+          "HTML",
+          "CSS",
+          "JS",
+          "UI",
+          "UX basics",
+          "Accessibility",
+          "Version Control",
+          "Git",
+          "Client-facing communication"
+        ],
+        "location": "Bengaluru, India",
+        "employment_type": "Internship"
+      }
+    ]
+  },
+  {
+    "company": "Flipkart",
+    "industry": "E-commerce",
+    "company_size": "1-50",
+    "job_roles": [
+      {
+        "role": "Data Engineer",
+        "seniority": "Lead",
+        "skills": [
+          "Spark",
+          "SQL",
+          "Airflow",
+          "Cloud Data Services",
+          "Python",
+          "Scala"
+        ],
+        "location": "Toronto, Canada",
+        "employment_type": "Full-time"
+      },
+      {
+        "role": "Quality Assurance Engineer",
+        "seniority": "Principal",
+        "skills": [
+          "Bug Tracking",
+          "JIRA",
+          "Regression Testing",
+          "Manual Testing",
+          "CI Integration",
+          "Test Case Design",
+          "API Testing",
+          "Test Planning"
+        ],
+        "location": "San Francisco, USA",
+        "employment_type": "Remote"
+      },
+      {
+        "role": "Product Manager",
+        "seniority": "Junior",
+        "skills": [
+          "Prioritization",
+          "Agile",
+          "User Research",
+          "Stakeholder Communication",
+          "Product Strategy",
+          "Roadmapping",
+          "Metrics",
+          "Analytics",
+          "UX Familiarity",
+          "Rapid feature iteration",
+          "e-commerce",
+          "product metrics"
+        ],
+        "location": "Bengaluru, India",
+        "employment_type": "Remote"
+      },
+      {
+        "role": "Mobile Developer",
+        "seniority": "Senior",
+        "skills": [
+          "Performance Optimization",
+          "App Store",
+          "Play Store knowledge",
+          "Mobile Architectures",
+          "Testing",
+          "APIs",
+          "UI",
+          "UX for Mobile",
+          "Rapid feature iteration",
+          "e-commerce",
+          "product metrics"
+        ],
+        "location": "Toronto, Canada",
+        "employment_type": "Remote"
+      },
+      {
+        "role": "Network Engineer",
+        "seniority": "Director",
+        "skills": [
+          "Network Protocols",
+          "TCP",
+          "IP",
+          "Network Troubleshooting",
+          "VPN",
+          "Routing & Switching",
+          "Load Balancers",
+          "Monitoring",
+          "Scripting",
+          "Firewalls"
+        ],
+        "location": "Berlin, Germany",
+        "employment_type": "Internship"
+      },
+      {
+        "role": "Software Engineer",
+        "seniority": "Principal",
+        "skills": [
+          "Databases",
+          "SQL",
+          "NoSQL",
+          "System Design",
+          "Programming",
+          "Java",
+          "Python",
+          "C++",
+          "Data Structures & Algorithms",
+          "Git",
+          "Rapid feature iteration",
+          "e-commerce",
+          "product metrics"
+        ],
+        "location": "Toronto, Canada",
+        "employment_type": "Full-time"
+      },
+      {
+        "role": "Solutions Architect",
+        "seniority": "Associate",
+        "skills": [
+          "Cloud Design",
+          "Security",
+          "System Architecture",
+          "Integration Patterns",
+          "Cost Estimation",
+          "Rapid feature iteration",
+          "e-commerce",
+          "product metrics"
+        ],
+        "location": "Bengaluru, India",
+        "employment_type": "Part-time"
+      },
+      {
+        "role": "UI/UX Designer",
+        "seniority": "Principal",
+        "skills": [
+          "Usability Testing",
+          "User Research",
+          "Design Systems",
+          "Visual Design",
+          "Figma",
+          "Sketch",
+          "Prototyping",
+          "Interaction Design"
+        ],
+        "location": "Hyderabad, India",
+        "employment_type": "Contract"
+      },
+      {
+        "role": "Site Reliability Engineer",
+        "seniority": "Senior",
+        "skills": [
+          "SRE Principles",
+          "Automation",
+          "Kubernetes",
+          "Docker",
+          "Monitoring & Alerting",
+          "Incident Management",
+          "Performance Tuning",
+          "Chaos Engineering",
+          "Capacity Planning"
+        ],
+        "location": "Chennai, India",
+        "employment_type": "Part-time"
+      },
+      {
+        "role": "Full Stack Developer",
+        "seniority": "Internship",
+        "skills": [
+          "Databases",
+          "Testing",
+          "Backend Frameworks",
+          "Frontend Frameworks",
+          "DevOps Basics",
+          "Version Control",
+          "CI",
+          "CD"
+        ],
+        "location": "Chennai, India",
+        "employment_type": "Contract"
+      }
+    ]
+  },
+  {
+    "company": "Zomato",
+    "industry": "FinTech",
+    "company_size": "2001-10000",
+    "job_roles": [
+      {
+        "role": "Security Analyst",
+        "seniority": "Principal",
+        "skills": [
+          "Vulnerability Assessment",
+          "Compliance",
+          "Network Security",
+          "Threat Detection",
+          "SIEM",
+          "Firewalls",
+          "IDS",
+          "IPS"
+        ],
+        "location": "London, UK",
+        "employment_type": "Remote"
+      },
+      {
+        "role": "Network Engineer",
+        "seniority": "Associate",
+        "skills": [
+          "VPN",
+          "Firewalls",
+          "Network Protocols",
+          "TCP",
+          "IP",
+          "Network Troubleshooting",
+          "Load Balancers",
+          "Scripting",
+          "Monitoring",
+          "Rapid feature iteration",
+          "e-commerce",
+          "product metrics"
+        ],
+        "location": "Berlin, Germany",
+        "employment_type": "Part-time"
+      },
+      {
+        "role": "Frontend Developer",
+        "seniority": "Manager",
+        "skills": [
+          "HTML",
+          "CSS",
+          "JS",
+          "Responsive Design",
+          "Cross-browser Testing",
+          "Web Performance",
+          "Version Control",
+          "Git",
+          "Accessibility",
+          "React",
+          "Angular",
+          "Vue",
+          "UI",
+          "UX basics",
+          "Rapid feature iteration",
+          "e-commerce",
+          "product metrics"
+        ],
+        "location": "Pune, India",
+        "employment_type": "Remote"
+      },
+      {
+        "role": "Cloud Engineer",
+        "seniority": "Associate",
+        "skills": [
+          "IaC",
+          "Terraform",
+          "Security",
+          "Cloud Architecture",
+          "Containerization",
+          "Cost Optimization",
+          "Monitoring",
+          "AWS",
+          "Azure",
+          "GCP",
+          "Networking in Cloud"
+        ],
+        "location": "San Francisco, USA",
+        "employment_type": "Contract"
+      },
+      {
+        "role": "Cybersecurity Engineer",
+        "seniority": "Senior",
+        "skills": [
+          "Threat Modeling",
+          "Vulnerability Management",
+          "Identity & Access Management",
+          "Secure Architecture",
+          "Security Automation",
+          "Penetration Testing",
+          "Encryption"
+        ],
+        "location": "Bengaluru, India",
+        "employment_type": "Internship"
+      },
+      {
+        "role": "Business Analyst",
+        "seniority": "Internship",
+        "skills": [
+          "Requirements Gathering",
+          "Excel",
+          "Sheets",
+          "Reporting",
+          "Data Analysis",
+          "Documentation",
+          "Stakeholder Management",
+          "UML",
+          "Process Modelling",
+          "SQL",
+          "Rapid feature iteration",
+          "e-commerce",
+          "product metrics"
+        ],
+        "location": "Chennai, India",
+        "employment_type": "Contract"
+      },
+      {
+        "role": "Solutions Architect",
+        "seniority": "Senior",
+        "skills": [
+          "Documentation",
+          "Cloud Design",
+          "Stakeholder Communication",
+          "Scalability & Performance",
+          "Cost Estimation",
+          "Rapid feature iteration",
+          "e-commerce",
+          "product metrics"
+        ],
+        "location": "New York, USA",
+        "employment_type": "Internship"
+      }
+    ]
+  },
+  {
+    "company": "Swiggy",
+    "industry": "Hardware",
+    "company_size": "501-2000",
+    "job_roles": [
+      {
+        "role": "AI Researcher",
+        "seniority": "Senior",
+        "skills": [
+          "NLP",
+          "CV",
+          "PyTorch",
+          "TensorFlow",
+          "Research Papers",
+          "Publication Track Record",
+          "Experimentation",
+          "Mathematics",
+          "Linear Algebra",
+          "Probability",
+          "Deep Learning"
+        ],
+        "location": "Toronto, Canada",
+        "employment_type": "Contract"
+      },
+      {
+        "role": "Cybersecurity Engineer",
+        "seniority": "Senior",
+        "skills": [
+          "Encryption",
+          "Security Automation",
+          "SIEM",
+          "Identity & Access Management",
+          "Threat Modeling",
+          "Rapid feature iteration",
+          "e-commerce",
+          "product metrics"
+        ],
+        "location": "Gurgaon, India",
+        "employment_type": "Contract"
+      },
+      {
+        "role": "UI/UX Designer",
+        "seniority": "Principal",
+        "skills": [
+          "User Research",
+          "Design Systems",
+          "Interaction Design",
+          "Prototyping",
+          "Visual Design",
+          "Wireframing",
+          "Usability Testing",
+          "Figma",
+          "Sketch",
+          "Rapid feature iteration",
+          "e-commerce",
+          "product metrics"
+        ],
+        "location": "Pune, India",
+        "employment_type": "Contract"
+      },
+      {
+        "role": "Product Manager",
+        "seniority": "Senior",
+        "skills": [
+          "Roadmapping",
+          "Stakeholder Communication",
+          "Metrics",
+          "Analytics",
+          "Product Strategy",
+          "Agile",
+          "Prioritization",
+          "UX Familiarity",
+          "User Research"
+        ],
+        "location": "Hyderabad, India",
+        "employment_type": "Contract"
+      },
+      {
+        "role": "Data Engineer",
+        "seniority": "Director",
+        "skills": [
+          "SQL",
+          "NoSQL",
+          "Cloud Data Services",
+          "Airflow",
+          "ETL",
+          "Pipelines"
+        ],
+        "location": "Berlin, Germany",
+        "employment_type": "Part-time"
+      },
+      {
+        "role": "Technical Support Engineer",
+        "seniority": "Lead",
+        "skills": [
+          "Troubleshooting",
+          "Ticketing Systems",
+          "Scripting",
+          "for automation",
+          "Logging & Monitoring",
+          "Knowledge Base Writing",
+          "Rapid feature iteration",
+          "e-commerce",
+          "product metrics"
+        ],
+        "location": "New York, USA",
+        "employment_type": "Internship"
+      },
+      {
+        "role": "Database Administrator",
+        "seniority": "Senior",
+        "skills": [
+          "Security",
+          "NoSQL familiarity",
+          "Backup & Recovery",
+          "SQL Tuning",
+          "Database Design"
+        ],
+        "location": "Chennai, India",
+        "employment_type": "Remote"
+      },
+      {
+        "role": "Site Reliability Engineer",
+        "seniority": "Senior",
+        "skills": [
+          "Automation",
+          "SRE Principles",
+          "Capacity Planning",
+          "Monitoring & Alerting",
+          "Performance Tuning",
+          "Kubernetes",
+          "Docker",
+          "Chaos Engineering"
+        ],
+        "location": "Noida, India",
+        "employment_type": "Full-time"
+      },
+      {
+        "role": "Cloud Engineer",
+        "seniority": "Internship",
+        "skills": [
+          "Cloud Architecture",
+          "IaC",
+          "Terraform",
+          "Security",
+          "Cost Optimization",
+          "Networking in Cloud",
+          "Rapid feature iteration",
+          "e-commerce",
+          "product metrics"
+        ],
+        "location": "Toronto, Canada",
+        "employment_type": "Contract"
+      },
+      {
+        "role": "Frontend Developer",
+        "seniority": "Internship",
+        "skills": [
+          "UI",
+          "UX basics",
+          "Version Control",
+          "Git",
+          "Web Performance",
+          "Responsive Design",
+          "HTML",
+          "CSS",
+          "JS"
+        ],
+        "location": "Chennai, India",
+        "employment_type": "Contract"
+      }
+    ]
+  },
+  {
+    "company": "Paytm",
+    "industry": "Consulting",
+    "company_size": "10000+",
+    "job_roles": [
+      {
+        "role": "Backend Developer",
+        "seniority": "Senior",
+        "skills": [
+          "Server-side languages",
+          "Java",
+          "Python",
+          "Node.js",
+          "Database Design",
+          "Caching",
+          "Message Queues",
+          "Authentication & Authorization",
+          "Unit & Integration Testing",
+          "Microservices",
+          "Rapid feature iteration",
+          "e-commerce",
+          "product metrics"
+        ],
+        "location": "London, UK",
+        "employment_type": "Part-time"
+      },
+      {
+        "role": "Technical Support Engineer",
+        "seniority": "Senior",
+        "skills": [
+          "Logging & Monitoring",
+          "Scripting",
+          "for automation",
+          "Customer Communication",
+          "Troubleshooting",
+          "Product Knowledge",
+          "Ticketing Systems",
+          "Knowledge Base Writing",
+          "Rapid feature iteration",
+          "e-commerce",
+          "product metrics"
+        ],
+        "location": "Remote",
+        "employment_type": "Full-time"
+      },
+      {
+        "role": "Data Engineer",
+        "seniority": "Manager",
+        "skills": [
+          "Python",
+          "Scala",
+          "Cloud Data Services",
+          "Airflow",
+          "ETL",
+          "Pipelines",
+          "Data Warehousing",
+          "Spark",
+          "SQL",
+          "Rapid feature iteration",
+          "e-commerce",
+          "product metrics"
+        ],
+        "location": "San Francisco, USA",
+        "employment_type": "Contract"
+      },
+      {
+        "role": "AI Researcher",
+        "seniority": "Manager",
+        "skills": [
+          "Deep Learning",
+          "Experimentation",
+          "PyTorch",
+          "TensorFlow",
+          "Research Papers",
+          "Publication Track Record",
+          "NLP",
+          "CV",
+          "Mathematics",
+          "Linear Algebra",
+          "Probability",
+          "Rapid feature iteration",
+          "e-commerce",
+          "product metrics"
+        ],
+        "location": "Toronto, Canada",
+        "employment_type": "Contract"
+      },
+      {
+        "role": "Mobile Developer",
+        "seniority": "Lead",
+        "skills": [
+          "UI",
+          "UX for Mobile",
+          "App Store",
+          "Play Store knowledge",
+          "Android",
+          "Kotlin",
+          "Java",
+          "or iOS",
+          "Swift",
+          "Performance Optimization",
+          "APIs",
+          "Mobile Architectures",
+          "Testing",
+          "Rapid feature iteration",
+          "e-commerce",
+          "product metrics"
+        ],
+        "location": "Hyderabad, India",
+        "employment_type": "Contract"
+      },
+      {
+        "role": "Frontend Developer",
+        "seniority": "Junior",
+        "skills": [
+          "Responsive Design",
+          "Web Performance",
+          "Version Control",
+          "Git",
+          "Accessibility",
+          "Cross-browser Testing",
+          "Rapid feature iteration",
+          "e-commerce",
+          "product metrics"
+        ],
+        "location": "Gurgaon, India",
+        "employment_type": "Remote"
+      },
+      {
+        "role": "Machine Learning Engineer",
+        "seniority": "Junior",
+        "skills": [
+          "MLOps",
+          "CI",
+          "Performance Monitoring",
+          "Hyperparameter Tuning",
+          "PyTorch",
+          "TensorFlow",
+          "Data Pipelines"
+        ],
+        "location": "Toronto, Canada",
+        "employment_type": "Remote"
+      }
+    ]
+  },
+  {
+    "company": "PhonePe",
+    "industry": "Consulting",
+    "company_size": "2001-10000",
+    "job_roles": [
+      {
+        "role": "Technical Support Engineer",
+        "seniority": "Junior",
+        "skills": [
+          "Troubleshooting",
+          "Customer Communication",
+          "Logging & Monitoring",
+          "Product Knowledge",
+          "Scripting",
+          "for automation",
+          "Ticketing Systems"
+        ],
+        "location": "Gurgaon, India",
+        "employment_type": "Internship"
+      },
+      {
+        "role": "Business Analyst",
+        "seniority": "Internship",
+        "skills": [
+          "Reporting",
+          "Documentation",
+          "Excel",
+          "Sheets",
+          "Data Analysis",
+          "Stakeholder Management",
+          "Requirements Gathering",
+          "Rapid feature iteration",
+          "e-commerce",
+          "product metrics"
+        ],
+        "location": "San Francisco, USA",
+        "employment_type": "Internship"
+      },
+      {
+        "role": "Machine Learning Engineer",
+        "seniority": "Associate",
+        "skills": [
+          "MLOps",
+          "CI",
+          "Hyperparameter Tuning",
+          "Data Pipelines",
+          "Performance Monitoring",
+          "Model Deployment",
+          "Scikit-learn",
+          "NLP",
+          "CV",
+          "PyTorch",
+          "TensorFlow"
+        ],
+        "location": "San Francisco, USA",
+        "employment_type": "Internship"
+      },
+      {
+        "role": "Data Scientist",
+        "seniority": "Senior",
+        "skills": [
+          "Model Evaluation",
+          "Feature Engineering",
+          "Statistics",
+          "Machine Learning",
+          "Data Cleaning",
+          "Data Visualization",
+          "SQL",
+          "Rapid feature iteration",
+          "e-commerce",
+          "product metrics"
+        ],
+        "location": "London, UK",
+        "employment_type": "Remote"
+      },
+      {
+        "role": "Data Engineer",
+        "seniority": "Junior",
+        "skills": [
+          "ETL",
+          "Pipelines",
+          "Data Warehousing",
+          "SQL",
+          "Spark",
+          "Python",
+          "Scala",
+          "NoSQL"
+        ],
+        "location": "Remote",
+        "employment_type": "Part-time"
+      },
+      {
+        "role": "Product Manager",
+        "seniority": "Junior",
+        "skills": [
+          "Roadmapping",
+          "Metrics",
+          "Analytics",
+          "UX Familiarity",
+          "User Research",
+          "Agile",
+          "Prioritization",
+          "Product Strategy",
+          "Stakeholder Communication"
+        ],
+        "location": "Seattle, USA",
+        "employment_type": "Remote"
+      },
+      {
+        "role": "Mobile Developer",
+        "seniority": "Junior",
+        "skills": [
+          "Performance Optimization",
+          "APIs",
+          "App Store",
+          "Play Store knowledge",
+          "Testing",
+          "UI",
+          "UX for Mobile",
+          "Android",
+          "Kotlin",
+          "Java",
+          "or iOS",
+          "Swift",
+          "Mobile Architectures"
+        ],
+        "location": "Hyderabad, India",
+        "employment_type": "Contract"
+      },
+      {
+        "role": "Site Reliability Engineer",
+        "seniority": "Junior",
+        "skills": [
+          "SRE Principles",
+          "Automation",
+          "Incident Management",
+          "Monitoring & Alerting",
+          "Capacity Planning",
+          "Kubernetes",
+          "Docker",
+          "Chaos Engineering",
+          "Rapid feature iteration",
+          "e-commerce",
+          "product metrics"
+        ],
+        "location": "Noida, India",
+        "employment_type": "Contract"
+      }
+    ]
+  },
+  {
+    "company": "BYJU'S",
+    "industry": "Product",
+    "company_size": "501-2000",
+    "job_roles": [
+      {
+        "role": "Business Analyst",
+        "seniority": "Senior",
+        "skills": [
+          "Excel",
+          "Sheets",
+          "Requirements Gathering",
+          "Reporting",
+          "Data Analysis",
+          "SQL",
+          "Documentation",
+          "Stakeholder Management"
+        ],
+        "location": "New York, USA",
+        "employment_type": "Part-time"
+      },
+      {
+        "role": "Security Analyst",
+        "seniority": "Junior",
+        "skills": [
+          "Pen Testing basics",
+          "Network Security",
+          "Vulnerability Assessment",
+          "Firewalls",
+          "IDS",
+          "IPS",
+          "SIEM",
+          "Compliance",
+          "Threat Detection",
+          "Rapid feature iteration",
+          "e-commerce",
+          "product metrics"
+        ],
+        "location": "Bengaluru, India",
+        "employment_type": "Internship"
+      },
+      {
+        "role": "Mobile Developer",
+        "seniority": "Manager",
+        "skills": [
+          "Testing",
+          "Mobile Architectures",
+          "App Store",
+          "Play Store knowledge",
+          "Performance Optimization",
+          "UI",
+          "UX for Mobile",
+          "Rapid feature iteration",
+          "e-commerce",
+          "product metrics"
+        ],
+        "location": "Seattle, USA",
+        "employment_type": "Contract"
+      },
+      {
+        "role": "Database Administrator",
+        "seniority": "Manager",
+        "skills": [
+          "Replication",
+          "Backup & Recovery",
+          "Performance Monitoring",
+          "Indexing",
+          "Database Design",
+          "SQL Tuning",
+          "NoSQL familiarity",
+          "Security"
+        ],
+        "location": "Bengaluru, India",
+        "employment_type": "Contract"
+      },
+      {
+        "role": "Data Scientist",
+        "seniority": "Principal",
+        "skills": [
+          "Feature Engineering",
+          "SQL",
+          "Data Visualization",
+          "Python",
+          "R",
+          "Model Evaluation",
+          "Machine Learning",
+          "Rapid feature iteration",
+          "e-commerce",
+          "product metrics"
+        ],
+        "location": "Chennai, India",
+        "employment_type": "Part-time"
+      },
+      {
+        "role": "UI/UX Designer",
+        "seniority": "Manager",
+        "skills": [
+          "Interaction Design",
+          "Visual Design",
+          "User Research",
+          "Design Systems",
+          "Prototyping"
+        ],
+        "location": "London, UK",
+        "employment_type": "Full-time"
+      },
+      {
+        "role": "Software Engineer",
+        "seniority": "Junior",
+        "skills": [
+          "Git",
+          "Databases",
+          "SQL",
+          "NoSQL",
+          "APIs",
+          "REST",
+          "Unit Testing",
+          "Data Structures & Algorithms",
+          "System Design",
+          "Agile",
+          "Scrum"
+        ],
+        "location": "Berlin, Germany",
+        "employment_type": "Contract"
+      },
+      {
+        "role": "Site Reliability Engineer",
+        "seniority": "Manager",
+        "skills": [
+          "Kubernetes",
+          "Docker",
+          "Chaos Engineering",
+          "SRE Principles",
+          "Monitoring & Alerting",
+          "Performance Tuning",
+          "Capacity Planning",
+          "Incident Management"
+        ],
+        "location": "London, UK",
+        "employment_type": "Contract"
+      },
+      {
+        "role": "Frontend Developer",
+        "seniority": "Associate",
+        "skills": [
+          "Version Control",
+          "Git",
+          "React",
+          "Angular",
+          "Vue",
+          "Web Performance",
+          "Accessibility",
+          "UI",
+          "UX basics",
+          "Responsive Design",
+          "HTML",
+          "CSS",
+          "JS",
+          "Cross-browser Testing",
+          "Rapid feature iteration",
+          "e-commerce",
+          "product metrics"
+        ],
+        "location": "Gurgaon, India",
+        "employment_type": "Part-time"
+      }
+    ]
+  },
+  {
+    "company": "Freshworks",
+    "industry": "EdTech",
+    "company_size": "2001-10000",
+    "job_roles": [
+      {
+        "role": "Site Reliability Engineer",
+        "seniority": "Senior",
+        "skills": [
+          "Chaos Engineering",
+          "Capacity Planning",
+          "Automation",
+          "Performance Tuning",
+          "Incident Management",
+          "Monitoring & Alerting",
+          "SRE Principles",
+          "Kubernetes",
+          "Docker"
+        ],
+        "location": "Noida, India",
+        "employment_type": "Full-time"
+      },
+      {
+        "role": "Data Scientist",
+        "seniority": "Junior",
+        "skills": [
+          "Data Cleaning",
+          "Feature Engineering",
+          "Machine Learning",
+          "Statistics",
+          "Model Evaluation",
+          "Data Visualization",
+          "SQL"
+        ],
+        "location": "London, UK",
+        "employment_type": "Full-time"
+      },
+      {
+        "role": "DevOps Engineer",
+        "seniority": "Senior",
+        "skills": [
+          "Monitoring & Logging",
+          "Cloud",
+          "AWS",
+          "Azure",
+          "GCP",
+          "CI",
+          "CD",
+          "Jenkins",
+          "GitLab CI",
+          "Terraform",
+          "Ansible",
+          "Docker",
+          "Scripting",
+          "Bash",
+          "Python",
+          "Security best practices"
+        ],
+        "location": "Noida, India",
+        "employment_type": "Full-time"
+      },
+      {
+        "role": "Business Analyst",
+        "seniority": "Manager",
+        "skills": [
+          "Documentation",
+          "SQL",
+          "Requirements Gathering",
+          "Stakeholder Management",
+          "UML",
+          "Process Modelling",
+          "Reporting",
+          "Excel",
+          "Sheets",
+          "Data Analysis"
+        ],
+        "location": "Pune, India",
+        "employment_type": "Remote"
+      },
+      {
+        "role": "AI Researcher",
+        "seniority": "Associate",
+        "skills": [
+          "NLP",
+          "CV",
+          "Research Papers",
+          "Publication Track Record",
+          "Deep Learning",
+          "PyTorch",
+          "TensorFlow",
+          "Experimentation"
+        ],
+        "location": "Gurgaon, India",
+        "employment_type": "Internship"
+      },
+      {
+        "role": "Database Administrator",
+        "seniority": "Associate",
+        "skills": [
+          "Database Design",
+          "Security",
+          "NoSQL familiarity",
+          "SQL Tuning",
+          "Backup & Recovery",
+          "Indexing",
+          "Performance Monitoring"
+        ],
+        "location": "Toronto, Canada",
+        "employment_type": "Contract"
+      },
+      {
+        "role": "Solutions Architect",
+        "seniority": "Lead",
+        "skills": [
+          "Integration Patterns",
+          "Stakeholder Communication",
+          "Documentation",
+          "Cloud Design",
+          "Security",
+          "Scalability & Performance",
+          "Rapid feature iteration",
+          "e-commerce",
+          "product metrics"
+        ],
+        "location": "Berlin, Germany",
+        "employment_type": "Part-time"
+      }
+    ]
+  },
+  {
+    "company": "Zoho",
+    "industry": "Healthcare Tech",
+    "company_size": "501-2000",
+    "job_roles": [
+      {
+        "role": "Cybersecurity Engineer",
+        "seniority": "Manager",
+        "skills": [
+          "Identity & Access Management",
+          "Encryption",
+          "Secure Architecture",
+          "Security Automation",
+          "Threat Modeling",
+          "Vulnerability Management",
+          "Penetration Testing",
+          "SIEM"
+        ],
+        "location": "Chennai, India",
+        "employment_type": "Part-time"
+      },
+      {
+        "role": "Backend Developer",
+        "seniority": "Director",
+        "skills": [
+          "Unit & Integration Testing",
+          "API Design",
+          "Message Queues",
+          "Microservices",
+          "Caching",
+          "Authentication & Authorization"
+        ],
+        "location": "Bengaluru, India",
+        "employment_type": "Internship"
+      },
+      {
+        "role": "Business Analyst",
+        "seniority": "Associate",
+        "skills": [
+          "Requirements Gathering",
+          "Reporting",
+          "UML",
+          "Process Modelling",
+          "Stakeholder Management",
+          "Excel",
+          "Sheets",
+          "Rapid feature iteration",
+          "e-commerce",
+          "product metrics"
+        ],
+        "location": "Seattle, USA",
+        "employment_type": "Part-time"
+      },
+      {
+        "role": "Database Administrator",
+        "seniority": "Lead",
+        "skills": [
+          "Security",
+          "Backup & Recovery",
+          "Performance Monitoring",
+          "NoSQL familiarity",
+          "Replication",
+          "Rapid feature iteration",
+          "e-commerce",
+          "product metrics"
+        ],
+        "location": "Hyderabad, India",
+        "employment_type": "Internship"
+      },
+      {
+        "role": "Data Engineer",
+        "seniority": "Senior",
+        "skills": [
+          "Spark",
+          "Airflow",
+          "Data Warehousing",
+          "Cloud Data Services",
+          "ETL",
+          "Pipelines",
+          "NoSQL",
+          "Python",
+          "Scala"
+        ],
+        "location": "San Francisco, USA",
+        "employment_type": "Full-time"
+      },
+      {
+        "role": "UI/UX Designer",
+        "seniority": "Director",
+        "skills": [
+          "Figma",
+          "Sketch",
+          "Wireframing",
+          "User Research",
+          "Design Systems",
+          "Usability Testing"
+        ],
+        "location": "Bengaluru, India",
+        "employment_type": "Full-time"
+      },
+      {
+        "role": "Security Analyst",
+        "seniority": "Junior",
+        "skills": [
+          "Threat Detection",
+          "Compliance",
+          "Vulnerability Assessment",
+          "Pen Testing basics",
+          "Firewalls",
+          "IDS",
+          "IPS",
+          "Network Security",
+          "SIEM",
+          "Rapid feature iteration",
+          "e-commerce",
+          "product metrics"
+        ],
+        "location": "Hyderabad, India",
+        "employment_type": "Internship"
+      }
+    ]
+  },
+  {
+    "company": "MakeMyTrip",
+    "industry": "E-commerce",
+    "company_size": "1-50",
+    "job_roles": [
+      {
+        "role": "Business Analyst",
+        "seniority": "Junior",
+        "skills": [
+          "UML",
+          "Process Modelling",
+          "Reporting",
+          "Data Analysis",
+          "Excel",
+          "Sheets",
+          "Stakeholder Management",
+          "SQL",
+          "Documentation",
+          "Requirements Gathering",
+          "Rapid feature iteration",
+          "e-commerce",
+          "product metrics"
+        ],
+        "location": "Pune, India",
+        "employment_type": "Full-time"
+      },
+      {
+        "role": "Data Scientist",
+        "seniority": "Lead",
+        "skills": [
+          "Data Visualization",
+          "Data Cleaning",
+          "Machine Learning",
+          "Statistics",
+          "Feature Engineering",
+          "SQL",
+          "Python",
+          "R",
+          "Model Evaluation"
+        ],
+        "location": "Bengaluru, India",
+        "employment_type": "Full-time"
+      },
+      {
+        "role": "Cybersecurity Engineer",
+        "seniority": "Internship",
+        "skills": [
+          "Threat Modeling",
+          "Encryption",
+          "SIEM",
+          "Identity & Access Management",
+          "Penetration Testing",
+          "Vulnerability Management",
+          "Security Automation",
+          "Rapid feature iteration",
+          "e-commerce",
+          "product metrics"
+        ],
+        "location": "Bengaluru, India",
+        "employment_type": "Contract"
+      },
+      {
+        "role": "Technical Support Engineer",
+        "seniority": "Principal",
+        "skills": [
+          "Logging & Monitoring",
+          "Troubleshooting",
+          "Customer Communication",
+          "Knowledge Base Writing",
+          "Product Knowledge",
+          "Scripting",
+          "for automation",
+          "Ticketing Systems"
+        ],
+        "location": "Pune, India",
+        "employment_type": "Part-time"
+      },
+      {
+        "role": "Backend Developer",
+        "seniority": "Senior",
+        "skills": [
+          "Microservices",
+          "Caching",
+          "Unit & Integration Testing",
+          "Database Design",
+          "Authentication & Authorization",
+          "Server-side languages",
+          "Java",
+          "Python",
+          "Node.js",
+          "API Design",
+          "Message Queues",
+          "Rapid feature iteration",
+          "e-commerce",
+          "product metrics"
+        ],
+        "location": "Bengaluru, India",
+        "employment_type": "Full-time"
+      },
+      {
+        "role": "Database Administrator",
+        "seniority": "Associate",
+        "skills": [
+          "Database Design",
+          "Performance Monitoring",
+          "Security",
+          "NoSQL familiarity",
+          "Indexing",
+          "Backup & Recovery",
+          "Replication",
+          "SQL Tuning"
+        ],
+        "location": "Noida, India",
+        "employment_type": "Full-time"
+      },
+      {
+        "role": "Software Engineer",
+        "seniority": "Manager",
+        "skills": [
+          "Data Structures & Algorithms",
+          "Unit Testing",
+          "Agile",
+          "Scrum",
+          "Git",
+          "System Design",
+          "Databases",
+          "SQL",
+          "NoSQL",
+          "Programming",
+          "Java",
+          "Python",
+          "C++",
+          "Rapid feature iteration",
+          "e-commerce",
+          "product metrics"
+        ],
+        "location": "Toronto, Canada",
+        "employment_type": "Contract"
+      },
+      {
+        "role": "Machine Learning Engineer",
+        "seniority": "Internship",
+        "skills": [
+          "Hyperparameter Tuning",
+          "PyTorch",
+          "TensorFlow",
+          "NLP",
+          "CV",
+          "Performance Monitoring",
+          "MLOps",
+          "CI"
+        ],
+        "location": "Noida, India",
+        "employment_type": "Contract"
+      }
+    ]
+  },
+  {
+    "company": "Ola",
+    "industry": "EdTech",
+    "company_size": "1-50",
+    "job_roles": [
+      {
+        "role": "Solutions Architect",
+        "seniority": "Manager",
+        "skills": [
+          "Stakeholder Communication",
+          "Cloud Design",
+          "Documentation",
+          "Integration Patterns",
+          "System Architecture",
+          "Security",
+          "Rapid feature iteration",
+          "e-commerce",
+          "product metrics"
+        ],
+        "location": "Noida, India",
+        "employment_type": "Remote"
+      },
+      {
+        "role": "Software Engineer",
+        "seniority": "Principal",
+        "skills": [
+          "Unit Testing",
+          "Git",
+          "Agile",
+          "Scrum",
+          "Programming",
+          "Java",
+          "Python",
+          "C++",
+          "APIs",
+          "REST"
+        ],
+        "location": "Bengaluru, India",
+        "employment_type": "Part-time"
+      },
+      {
+        "role": "Machine Learning Engineer",
+        "seniority": "Internship",
+        "skills": [
+          "MLOps",
+          "CI",
+          "Model Deployment",
+          "Data Pipelines",
+          "PyTorch",
+          "TensorFlow",
+          "Scikit-learn",
+          "Hyperparameter Tuning"
+        ],
+        "location": "Bengaluru, India",
+        "employment_type": "Full-time"
+      },
+      {
+        "role": "Site Reliability Engineer",
+        "seniority": "Internship",
+        "skills": [
+          "Monitoring & Alerting",
+          "Capacity Planning",
+          "SRE Principles",
+          "Performance Tuning",
+          "Kubernetes",
+          "Docker",
+          "Chaos Engineering"
+        ],
+        "location": "New York, USA",
+        "employment_type": "Part-time"
+      },
+      {
+        "role": "UI/UX Designer",
+        "seniority": "Junior",
+        "skills": [
+          "Visual Design",
+          "Wireframing",
+          "User Research",
+          "Prototyping",
+          "Interaction Design",
+          "Figma",
+          "Sketch"
+        ],
+        "location": "New York, USA",
+        "employment_type": "Full-time"
+      },
+      {
+        "role": "Database Administrator",
+        "seniority": "Lead",
+        "skills": [
+          "Indexing",
+          "Security",
+          "Database Design",
+          "SQL Tuning",
+          "NoSQL familiarity",
+          "Performance Monitoring"
+        ],
+        "location": "Bengaluru, India",
+        "employment_type": "Internship"
+      },
+      {
+        "role": "AI Researcher",
+        "seniority": "Lead",
+        "skills": [
+          "Deep Learning",
+          "Experimentation",
+          "Mathematics",
+          "Linear Algebra",
+          "Probability",
+          "NLP",
+          "CV",
+          "Research Papers",
+          "Publication Track Record",
+          "PyTorch",
+          "TensorFlow"
+        ],
+        "location": "Toronto, Canada",
+        "employment_type": "Remote"
+      },
+      {
+        "role": "Data Engineer",
+        "seniority": "Senior",
+        "skills": [
+          "Cloud Data Services",
+          "Airflow",
+          "NoSQL",
+          "SQL",
+          "Spark",
+          "Python",
+          "Scala"
+        ],
+        "location": "Pune, India",
+        "employment_type": "Full-time"
+      }
+    ]
+  },
+  {
+    "company": "Siemens",
+    "industry": "FinTech",
+    "company_size": "201-500",
+    "job_roles": [
+      {
+        "role": "AI Researcher",
+        "seniority": "Internship",
+        "skills": [
+          "Research Papers",
+          "Experimentation",
+          "NLP",
+          "CV",
+          "Mathematics",
+          "Linear Algebra",
+          "Probability",
+          "Publication Track Record"
+        ],
+        "location": "Pune, India",
+        "employment_type": "Internship"
+      },
+      {
+        "role": "UI/UX Designer",
+        "seniority": "Director",
+        "skills": [
+          "Figma",
+          "Sketch",
+          "Wireframing",
+          "Interaction Design",
+          "User Research",
+          "Prototyping"
+        ],
+        "location": "Toronto, Canada",
+        "employment_type": "Full-time"
+      },
+      {
+        "role": "Cybersecurity Engineer",
+        "seniority": "Manager",
+        "skills": [
+          "Vulnerability Management",
+          "Identity & Access Management",
+          "Threat Modeling",
+          "Secure Architecture",
+          "Encryption"
+        ],
+        "location": "Berlin, Germany",
+        "employment_type": "Contract"
+      },
+      {
+        "role": "Software Engineer",
+        "seniority": "Director",
+        "skills": [
+          "Unit Testing",
+          "System Design",
+          "Databases",
+          "SQL",
+          "NoSQL",
+          "APIs",
+          "REST",
+          "Git",
+          "Data Structures & Algorithms"
+        ],
+        "location": "Noida, India",
+        "employment_type": "Contract"
+      },
+      {
+        "role": "Quality Assurance Engineer",
+        "seniority": "Junior",
+        "skills": [
+          "API Testing",
+          "Manual Testing",
+          "Regression Testing",
+          "Test Planning",
+          "Test Case Design"
+        ],
+        "location": "Pune, India",
+        "employment_type": "Part-time"
+      },
+      {
+        "role": "Network Engineer",
+        "seniority": "Director",
+        "skills": [
+          "Load Balancers",
+          "VPN",
+          "Routing & Switching",
+          "Network Troubleshooting",
+          "Firewalls",
+          "Scripting",
+          "Network Protocols",
+          "TCP",
+          "IP",
+          "Monitoring"
+        ],
+        "location": "Noida, India",
+        "employment_type": "Full-time"
+      },
+      {
+        "role": "Business Analyst",
+        "seniority": "Senior",
+        "skills": [
+          "SQL",
+          "Excel",
+          "Sheets",
+          "UML",
+          "Process Modelling",
+          "Reporting",
+          "Requirements Gathering"
+        ],
+        "location": "Remote",
+        "employment_type": "Internship"
+      },
+      {
+        "role": "Product Manager",
+        "seniority": "Internship",
+        "skills": [
+          "User Research",
+          "Metrics",
+          "Analytics",
+          "UX Familiarity",
+          "Roadmapping",
+          "Prioritization",
+          "Stakeholder Communication"
+        ],
+        "location": "Berlin, Germany",
+        "employment_type": "Internship"
+      }
+    ]
+  },
+  {
+    "company": "Samsung",
+    "industry": "Consulting",
+    "company_size": "1-50",
+    "job_roles": [
+      {
+        "role": "Business Analyst",
+        "seniority": "Associate",
+        "skills": [
+          "SQL",
+          "Requirements Gathering",
+          "Excel",
+          "Sheets",
+          "UML",
+          "Process Modelling",
+          "Data Analysis"
+        ],
+        "location": "Chennai, India",
+        "employment_type": "Part-time"
+      },
+      {
+        "role": "Security Analyst",
+        "seniority": "Senior",
+        "skills": [
+          "Threat Detection",
+          "Incident Response",
+          "Compliance",
+          "SIEM",
+          "Network Security",
+          "Vulnerability Assessment",
+          "Firewalls",
+          "IDS",
+          "IPS"
+        ],
+        "location": "Berlin, Germany",
+        "employment_type": "Part-time"
+      },
+      {
+        "role": "AI Researcher",
+        "seniority": "Associate",
+        "skills": [
+          "Deep Learning",
+          "PyTorch",
+          "TensorFlow",
+          "NLP",
+          "CV",
+          "Experimentation",
+          "Research Papers",
+          "Mathematics",
+          "Linear Algebra",
+          "Probability"
+        ],
+        "location": "London, UK",
+        "employment_type": "Part-time"
+      },
+      {
+        "role": "Cybersecurity Engineer",
+        "seniority": "Lead",
+        "skills": [
+          "Security Automation",
+          "Secure Architecture",
+          "Threat Modeling",
+          "Identity & Access Management",
+          "Penetration Testing",
+          "Encryption",
+          "SIEM",
+          "Vulnerability Management"
+        ],
+        "location": "Noida, India",
+        "employment_type": "Part-time"
+      },
+      {
+        "role": "Cloud Engineer",
+        "seniority": "Lead",
+        "skills": [
+          "AWS",
+          "Azure",
+          "GCP",
+          "Networking in Cloud",
+          "Security",
+          "Cost Optimization",
+          "Cloud Architecture",
+          "Containerization"
+        ],
+        "location": "Seattle, USA",
+        "employment_type": "Part-time"
+      },
+      {
+        "role": "Full Stack Developer",
+        "seniority": "Internship",
+        "skills": [
+          "Frontend Frameworks",
+          "Testing",
+          "Databases",
+          "RESTful APIs",
+          "Backend Frameworks",
+          "DevOps Basics",
+          "Version Control",
+          "CI",
+          "CD"
+        ],
+        "location": "San Francisco, USA",
+        "employment_type": "Internship"
+      },
+      {
+        "role": "Technical Support Engineer",
+        "seniority": "Internship",
+        "skills": [
+          "Ticketing Systems",
+          "Logging & Monitoring",
+          "Product Knowledge",
+          "Knowledge Base Writing",
+          "Customer Communication",
+          "Scripting",
+          "for automation",
+          "Troubleshooting"
+        ],
+        "location": "Gurgaon, India",
+        "employment_type": "Remote"
+      }
+    ]
+  },
+  {
+    "company": "LG",
+    "industry": "Healthcare Tech",
+    "company_size": "1-50",
+    "job_roles": [
+      {
+        "role": "Frontend Developer",
+        "seniority": "Manager",
+        "skills": [
+          "Accessibility",
+          "UI",
+          "UX basics",
+          "Cross-browser Testing",
+          "HTML",
+          "CSS",
+          "JS",
+          "React",
+          "Angular",
+          "Vue",
+          "Responsive Design"
+        ],
+        "location": "Gurgaon, India",
+        "employment_type": "Contract"
+      },
+      {
+        "role": "Site Reliability Engineer",
+        "seniority": "Principal",
+        "skills": [
+          "Capacity Planning",
+          "Incident Management",
+          "SRE Principles",
+          "Automation",
+          "Monitoring & Alerting",
+          "Performance Tuning"
+        ],
+        "location": "London, UK",
+        "employment_type": "Remote"
+      },
+      {
+        "role": "Database Administrator",
+        "seniority": "Director",
+        "skills": [
+          "Indexing",
+          "Security",
+          "NoSQL familiarity",
+          "Database Design",
+          "Replication",
+          "SQL Tuning"
+        ],
+        "location": "Bengaluru, India",
+        "employment_type": "Full-time"
+      },
+      {
+        "role": "UI/UX Designer",
+        "seniority": "Internship",
+        "skills": [
+          "User Research",
+          "Interaction Design",
+          "Wireframing",
+          "Figma",
+          "Sketch",
+          "Design Systems"
+        ],
+        "location": "Gurgaon, India",
+        "employment_type": "Remote"
+      },
+      {
+        "role": "Mobile Developer",
+        "seniority": "Internship",
+        "skills": [
+          "App Store",
+          "Play Store knowledge",
+          "Mobile Architectures",
+          "UI",
+          "UX for Mobile",
+          "Testing",
+          "APIs",
+          "Android",
+          "Kotlin",
+          "Java",
+          "or iOS",
+          "Swift"
+        ],
+        "location": "Pune, India",
+        "employment_type": "Remote"
+      },
+      {
+        "role": "Cloud Engineer",
+        "seniority": "Manager",
+        "skills": [
+          "Cloud Architecture",
+          "Security",
+          "Networking in Cloud",
+          "Containerization",
+          "AWS",
+          "Azure",
+          "GCP",
+          "Monitoring"
+        ],
+        "location": "London, UK",
+        "employment_type": "Full-time"
+      },
+      {
+        "role": "Machine Learning Engineer",
+        "seniority": "Principal",
+        "skills": [
+          "Scikit-learn",
+          "Data Pipelines",
+          "Model Deployment",
+          "MLOps",
+          "CI",
+          "Hyperparameter Tuning",
+          "Performance Monitoring",
+          "NLP",
+          "CV"
+        ],
+        "location": "Pune, India",
+        "employment_type": "Remote"
+      },
+      {
+        "role": "Full Stack Developer",
+        "seniority": "Associate",
+        "skills": [
+          "RESTful APIs",
+          "CI",
+          "CD",
+          "DevOps Basics",
+          "Backend Frameworks",
+          "Testing",
+          "Version Control",
+          "Databases"
+        ],
+        "location": "Pune, India",
+        "employment_type": "Full-time"
+      },
+      {
+        "role": "Technical Support Engineer",
+        "seniority": "Junior",
+        "skills": [
+          "Knowledge Base Writing",
+          "Ticketing Systems",
+          "Troubleshooting",
+          "Customer Communication",
+          "Product Knowledge",
+          "Logging & Monitoring",
+          "Scripting",
+          "for automation"
+        ],
+        "location": "Seattle, USA",
+        "employment_type": "Contract"
+      }
+    ]
+  },
+  {
+    "company": "Dell",
+    "industry": "Consulting",
+    "company_size": "201-500",
+    "job_roles": [
+      {
+        "role": "UI/UX Designer",
+        "seniority": "Internship",
+        "skills": [
+          "User Research",
+          "Visual Design",
+          "Figma",
+          "Sketch",
+          "Prototyping",
+          "Interaction Design",
+          "Usability Testing"
+        ],
+        "location": "Bengaluru, India",
+        "employment_type": "Part-time"
+      },
+      {
+        "role": "Quality Assurance Engineer",
+        "seniority": "Director",
+        "skills": [
+          "Test Case Design",
+          "Manual Testing",
+          "API Testing",
+          "Bug Tracking",
+          "JIRA",
+          "Regression Testing",
+          "CI Integration",
+          "Automation",
+          "Selenium",
+          "Cypress",
+          "Test Planning"
+        ],
+        "location": "Bengaluru, India",
+        "employment_type": "Remote"
+      },
+      {
+        "role": "Machine Learning Engineer",
+        "seniority": "Principal",
+        "skills": [
+          "Data Pipelines",
+          "Hyperparameter Tuning",
+          "PyTorch",
+          "TensorFlow",
+          "MLOps",
+          "CI",
+          "NLP",
+          "CV",
+          "Scikit-learn"
+        ],
+        "location": "Noida, India",
+        "employment_type": "Full-time"
+      },
+      {
+        "role": "Backend Developer",
+        "seniority": "Junior",
+        "skills": [
+          "Microservices",
+          "Database Design",
+          "Authentication & Authorization",
+          "Message Queues",
+          "Server-side languages",
+          "Java",
+          "Python",
+          "Node.js"
+        ],
+        "location": "Gurgaon, India",
+        "employment_type": "Remote"
+      },
+      {
+        "role": "Technical Support Engineer",
+        "seniority": "Internship",
+        "skills": [
+          "Scripting",
+          "for automation",
+          "Troubleshooting",
+          "Logging & Monitoring",
+          "Customer Communication",
+          "Product Knowledge",
+          "Ticketing Systems",
+          "Knowledge Base Writing"
+        ],
+        "location": "Hyderabad, India",
+        "employment_type": "Internship"
+      },
+      {
+        "role": "Security Analyst",
+        "seniority": "Lead",
+        "skills": [
+          "Vulnerability Assessment",
+          "Pen Testing basics",
+          "Firewalls",
+          "IDS",
+          "IPS",
+          "Incident Response",
+          "SIEM",
+          "Compliance"
+        ],
+        "location": "Noida, India",
+        "employment_type": "Contract"
+      },
+      {
+        "role": "Software Engineer",
+        "seniority": "Associate",
+        "skills": [
+          "Programming",
+          "Java",
+          "Python",
+          "C++",
+          "APIs",
+          "REST",
+          "Unit Testing",
+          "Git",
+          "Databases",
+          "SQL",
+          "NoSQL"
+        ],
+        "location": "Bengaluru, India",
+        "employment_type": "Internship"
+      },
+      {
+        "role": "Data Engineer",
+        "seniority": "Senior",
+        "skills": [
+          "Python",
+          "Scala",
+          "ETL",
+          "Pipelines",
+          "Airflow",
+          "NoSQL",
+          "SQL"
+        ],
+        "location": "Hyderabad, India",
+        "employment_type": "Full-time"
+      }
+    ]
+  },
+  {
+    "company": "HP",
+    "industry": "Product",
+    "company_size": "2001-10000",
+    "job_roles": [
+      {
+        "role": "Backend Developer",
+        "seniority": "Director",
+        "skills": [
+          "API Design",
+          "Unit & Integration Testing",
+          "Authentication & Authorization",
+          "Message Queues",
+          "Database Design",
+          "Microservices",
+          "Server-side languages",
+          "Java",
+          "Python",
+          "Node.js",
+          "Caching"
+        ],
+        "location": "Seattle, USA",
+        "employment_type": "Internship"
+      },
+      {
+        "role": "Site Reliability Engineer",
+        "seniority": "Principal",
+        "skills": [
+          "Incident Management",
+          "Chaos Engineering",
+          "Monitoring & Alerting",
+          "Kubernetes",
+          "Docker",
+          "Automation",
+          "Capacity Planning"
+        ],
+        "location": "Bengaluru, India",
+        "employment_type": "Remote"
+      },
+      {
+        "role": "Full Stack Developer",
+        "seniority": "Director",
+        "skills": [
+          "RESTful APIs",
+          "DevOps Basics",
+          "Frontend Frameworks",
+          "Testing",
+          "Version Control",
+          "Databases",
+          "Backend Frameworks",
+          "CI",
+          "CD"
+        ],
+        "location": "Noida, India",
+        "employment_type": "Full-time"
+      },
+      {
+        "role": "Product Manager",
+        "seniority": "Associate",
+        "skills": [
+          "Product Strategy",
+          "Stakeholder Communication",
+          "Agile",
+          "Metrics",
+          "Analytics",
+          "User Research",
+          "UX Familiarity",
+          "Prioritization",
+          "Roadmapping"
+        ],
+        "location": "Chennai, India",
+        "employment_type": "Contract"
+      },
+      {
+        "role": "Business Analyst",
+        "seniority": "Associate",
+        "skills": [
+          "Requirements Gathering",
+          "Stakeholder Management",
+          "Reporting",
+          "Excel",
+          "Sheets",
+          "Data Analysis",
+          "SQL"
+        ],
+        "location": "Remote",
+        "employment_type": "Remote"
+      },
+      {
+        "role": "Technical Support Engineer",
+        "seniority": "Lead",
+        "skills": [
+          "Product Knowledge",
+          "Scripting",
+          "for automation",
+          "Troubleshooting",
+          "Ticketing Systems",
+          "Customer Communication",
+          "Knowledge Base Writing",
+          "Logging & Monitoring"
+        ],
+        "location": "New York, USA",
+        "employment_type": "Part-time"
+      },
+      {
+        "role": "AI Researcher",
+        "seniority": "Manager",
+        "skills": [
+          "NLP",
+          "CV",
+          "Publication Track Record",
+          "Experimentation",
+          "Mathematics",
+          "Linear Algebra",
+          "Probability",
+          "Deep Learning"
+        ],
+        "location": "Pune, India",
+        "employment_type": "Contract"
+      },
+      {
+        "role": "Data Engineer",
+        "seniority": "Manager",
+        "skills": [
+          "Spark",
+          "NoSQL",
+          "ETL",
+          "Pipelines",
+          "Airflow",
+          "Python",
+          "Scala"
+        ],
+        "location": "Noida, India",
+        "employment_type": "Part-time"
+      },
+      {
+        "role": "Frontend Developer",
+        "seniority": "Manager",
+        "skills": [
+          "UI",
+          "UX basics",
+          "HTML",
+          "CSS",
+          "JS",
+          "React",
+          "Angular",
+          "Vue",
+          "Responsive Design",
+          "Web Performance",
+          "Version Control",
+          "Git",
+          "Cross-browser Testing",
+          "Accessibility"
+        ],
+        "location": "Gurgaon, India",
+        "employment_type": "Contract"
+      }
+    ]
+  },
+  {
+    "company": "Uber",
+    "industry": "Healthcare Tech",
+    "company_size": "10000+",
+    "job_roles": [
+      {
+        "role": "UI/UX Designer",
+        "seniority": "Manager",
+        "skills": [
+          "Prototyping",
+          "Design Systems",
+          "Visual Design",
+          "User Research",
+          "Usability Testing",
+          "Wireframing"
+        ],
+        "location": "London, UK",
+        "employment_type": "Full-time"
+      },
+      {
+        "role": "Software Engineer",
+        "seniority": "Associate",
+        "skills": [
+          "Agile",
+          "Scrum",
+          "Data Structures & Algorithms",
+          "APIs",
+          "REST",
+          "Git",
+          "System Design",
+          "Programming",
+          "Java",
+          "Python",
+          "C++"
+        ],
+        "location": "Hyderabad, India",
+        "employment_type": "Internship"
+      },
+      {
+        "role": "Quality Assurance Engineer",
+        "seniority": "Internship",
+        "skills": [
+          "Automation",
+          "Selenium",
+          "Cypress",
+          "Test Case Design",
+          "Regression Testing",
+          "Bug Tracking",
+          "JIRA",
+          "Test Planning",
+          "API Testing",
+          "CI Integration",
+          "Manual Testing"
+        ],
+        "location": "Chennai, India",
+        "employment_type": "Full-time"
+      },
+      {
+        "role": "Product Manager",
+        "seniority": "Junior",
+        "skills": [
+          "Product Strategy",
+          "Roadmapping",
+          "Metrics",
+          "Analytics",
+          "User Research",
+          "Agile",
+          "Stakeholder Communication",
+          "Prioritization",
+          "UX Familiarity"
+        ],
+        "location": "Berlin, Germany",
+        "employment_type": "Full-time"
+      },
+      {
+        "role": "Network Engineer",
+        "seniority": "Principal",
+        "skills": [
+          "Load Balancers",
+          "VPN",
+          "Network Troubleshooting",
+          "Monitoring",
+          "Network Protocols",
+          "TCP",
+          "IP",
+          "Scripting"
+        ],
+        "location": "Gurgaon, India",
+        "employment_type": "Contract"
+      },
+      {
+        "role": "Data Engineer",
+        "seniority": "Senior",
+        "skills": [
+          "Spark",
+          "Airflow",
+          "ETL",
+          "Pipelines",
+          "SQL",
+          "Data Warehousing",
+          "NoSQL",
+          "Python",
+          "Scala"
+        ],
+        "location": "Berlin, Germany",
+        "employment_type": "Contract"
+      },
+      {
+        "role": "Site Reliability Engineer",
+        "seniority": "Internship",
+        "skills": [
+          "Incident Management",
+          "Automation",
+          "Capacity Planning",
+          "Chaos Engineering",
+          "Monitoring & Alerting",
+          "SRE Principles"
+        ],
+        "location": "Seattle, USA",
+        "employment_type": "Contract"
+      },
+      {
+        "role": "Full Stack Developer",
+        "seniority": "Lead",
+        "skills": [
+          "Frontend Frameworks",
+          "Backend Frameworks",
+          "Databases",
+          "DevOps Basics",
+          "CI",
+          "CD",
+          "RESTful APIs"
+        ],
+        "location": "San Francisco, USA",
+        "employment_type": "Part-time"
+      },
+      {
+        "role": "Data Analyst",
+        "seniority": "Junior",
+        "skills": [
+          "Dashboards",
+          "Data Visualization",
+          "Tableau",
+          "PowerBI",
+          "Excel",
+          "Statistics",
+          "Data Cleaning",
+          "Reporting",
+          "Python",
+          "R"
+        ],
+        "location": "Bengaluru, India",
+        "employment_type": "Remote"
+      }
+    ]
+  },
+  {
+    "company": "Lyft",
+    "industry": "IT Services",
+    "company_size": "10000+",
+    "job_roles": [
+      {
+        "role": "Product Manager",
+        "seniority": "Internship",
+        "skills": [
+          "Stakeholder Communication",
+          "Metrics",
+          "Analytics",
+          "Agile",
+          "Roadmapping",
+          "User Research",
+          "Product Strategy",
+          "UX Familiarity"
+        ],
+        "location": "Bengaluru, India",
+        "employment_type": "Remote"
+      },
+      {
+        "role": "Technical Support Engineer",
+        "seniority": "Lead",
+        "skills": [
+          "Scripting",
+          "for automation",
+          "Product Knowledge",
+          "Customer Communication",
+          "Troubleshooting",
+          "Knowledge Base Writing",
+          "Ticketing Systems",
+          "Logging & Monitoring"
+        ],
+        "location": "San Francisco, USA",
+        "employment_type": "Part-time"
+      },
+      {
+        "role": "Full Stack Developer",
+        "seniority": "Principal",
+        "skills": [
+          "Frontend Frameworks",
+          "DevOps Basics",
+          "CI",
+          "CD",
+          "Version Control",
+          "Backend Frameworks",
+          "RESTful APIs",
+          "Testing",
+          "Databases"
+        ],
+        "location": "New York, USA",
+        "employment_type": "Internship"
+      },
+      {
+        "role": "Site Reliability Engineer",
+        "seniority": "Lead",
+        "skills": [
+          "SRE Principles",
+          "Chaos Engineering",
+          "Monitoring & Alerting",
+          "Capacity Planning",
+          "Kubernetes",
+          "Docker",
+          "Performance Tuning"
+        ],
+        "location": "Toronto, Canada",
+        "employment_type": "Remote"
+      },
+      {
+        "role": "Backend Developer",
+        "seniority": "Lead",
+        "skills": [
+          "Microservices",
+          "Unit & Integration Testing",
+          "Server-side languages",
+          "Java",
+          "Python",
+          "Node.js",
+          "Database Design",
+          "API Design",
+          "Message Queues"
+        ],
+        "location": "San Francisco, USA",
+        "employment_type": "Internship"
+      },
+      {
+        "role": "Quality Assurance Engineer",
+        "seniority": "Junior",
+        "skills": [
+          "Regression Testing",
+          "CI Integration",
+          "Automation",
+          "Selenium",
+          "Cypress",
+          "API Testing",
+          "Test Planning",
+          "Manual Testing",
+          "Test Case Design"
+        ],
+        "location": "Seattle, USA",
+        "employment_type": "Contract"
+      },
+      {
+        "role": "Data Engineer",
+        "seniority": "Associate",
+        "skills": [
+          "Python",
+          "Scala",
+          "NoSQL",
+          "Airflow",
+          "SQL",
+          "ETL",
+          "Pipelines"
+        ],
+        "location": "Pune, India",
+        "employment_type": "Contract"
+      },
+      {
+        "role": "AI Researcher",
+        "seniority": "Director",
+        "skills": [
+          "Mathematics",
+          "Linear Algebra",
+          "Probability",
+          "Experimentation",
+          "NLP",
+          "CV",
+          "Research Papers",
+          "Publication Track Record",
+          "Deep Learning",
+          "PyTorch",
+          "TensorFlow"
+        ],
+        "location": "Gurgaon, India",
+        "employment_type": "Contract"
+      },
+      {
+        "role": "Data Analyst",
+        "seniority": "Director",
+        "skills": [
+          "SQL",
+          "Dashboards",
+          "Statistics",
+          "Data Visualization",
+          "Tableau",
+          "PowerBI",
+          "Excel",
+          "Data Cleaning",
+          "Reporting"
+        ],
+        "location": "Bengaluru, India",
+        "employment_type": "Full-time"
+      }
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "industry": "E-commerce",
+    "company_size": "1-50",
+    "job_roles": [
+      {
+        "role": "Cybersecurity Engineer",
+        "seniority": "Senior",
+        "skills": [
+          "Secure Architecture",
+          "Vulnerability Management",
+          "Encryption",
+          "Penetration Testing",
+          "Security Automation",
+          "SIEM",
+          "Threat Modeling"
+        ],
+        "location": "Chennai, India",
+        "employment_type": "Internship"
+      },
+      {
+        "role": "Data Analyst",
+        "seniority": "Internship",
+        "skills": [
+          "Data Visualization",
+          "Tableau",
+          "PowerBI",
+          "SQL",
+          "Statistics",
+          "Reporting",
+          "Dashboards",
+          "Data Cleaning",
+          "Python",
+          "R"
+        ],
+        "location": "Noida, India",
+        "employment_type": "Internship"
+      },
+      {
+        "role": "Business Analyst",
+        "seniority": "Associate",
+        "skills": [
+          "UML",
+          "Process Modelling",
+          "Stakeholder Management",
+          "Reporting",
+          "Data Analysis",
+          "SQL",
+          "Documentation",
+          "Excel",
+          "Sheets",
+          "Requirements Gathering"
+        ],
+        "location": "Bengaluru, India",
+        "employment_type": "Part-time"
+      },
+      {
+        "role": "Technical Support Engineer",
+        "seniority": "Internship",
+        "skills": [
+          "Customer Communication",
+          "Knowledge Base Writing",
+          "Scripting",
+          "for automation",
+          "Ticketing Systems",
+          "Product Knowledge"
+        ],
+        "location": "London, UK",
+        "employment_type": "Remote"
+      },
+      {
+        "role": "Site Reliability Engineer",
+        "seniority": "Lead",
+        "skills": [
+          "Kubernetes",
+          "Docker",
+          "SRE Principles",
+          "Automation",
+          "Monitoring & Alerting",
+          "Capacity Planning",
+          "Performance Tuning"
+        ],
+        "location": "Bengaluru, India",
+        "employment_type": "Remote"
+      },
+      {
+        "role": "Solutions Architect",
+        "seniority": "Junior",
+        "skills": [
+          "System Architecture",
+          "Stakeholder Communication",
+          "Documentation",
+          "Cost Estimation",
+          "Scalability & Performance"
+        ],
+        "location": "San Francisco, USA",
+        "employment_type": "Part-time"
+      },
+      {
+        "role": "Software Engineer",
+        "seniority": "Manager",
+        "skills": [
+          "Data Structures & Algorithms",
+          "Unit Testing",
+          "System Design",
+          "APIs",
+          "REST",
+          "Agile",
+          "Scrum",
+          "Programming",
+          "Java",
+          "Python",
+          "C++",
+          "Git",
+          "Databases",
+          "SQL",
+          "NoSQL"
+        ],
+        "location": "Berlin, Germany",
+        "employment_type": "Full-time"
+      },
+      {
+        "role": "Frontend Developer",
+        "seniority": "Junior",
+        "skills": [
+          "Responsive Design",
+          "Web Performance",
+          "HTML",
+          "CSS",
+          "JS",
+          "Accessibility",
+          "Cross-browser Testing",
+          "React",
+          "Angular",
+          "Vue",
+          "Version Control",
+          "Git"
+        ],
+        "location": "Seattle, USA",
+        "employment_type": "Contract"
+      },
+      {
+        "role": "Data Engineer",
+        "seniority": "Manager",
+        "skills": [
+          "NoSQL",
+          "Python",
+          "Scala",
+          "Cloud Data Services",
+          "Spark",
+          "Airflow",
+          "SQL"
+        ],
+        "location": "Noida, India",
+        "employment_type": "Contract"
+      },
+      {
+        "role": "Full Stack Developer",
+        "seniority": "Senior",
+        "skills": [
+          "Testing",
+          "Backend Frameworks",
+          "CI",
+          "CD",
+          "RESTful APIs",
+          "Databases"
+        ],
+        "location": "Bengaluru, India",
+        "employment_type": "Full-time"
+      }
+    ]
+  },
+  {
+    "company": "Stripe",
+    "industry": "FinTech",
+    "company_size": "10000+",
+    "job_roles": [
+      {
+        "role": "Data Scientist",
+        "seniority": "Junior",
+        "skills": [
+          "Python",
+          "R",
+          "Model Evaluation",
+          "Statistics",
+          "SQL",
+          "Machine Learning",
+          "Data Visualization",
+          "Data Cleaning",
+          "Feature Engineering"
+        ],
+        "location": "Hyderabad, India",
+        "employment_type": "Full-time"
+      },
+      {
+        "role": "Backend Developer",
+        "seniority": "Principal",
+        "skills": [
+          "API Design",
+          "Microservices",
+          "Message Queues",
+          "Database Design",
+          "Unit & Integration Testing"
+        ],
+        "location": "Seattle, USA",
+        "employment_type": "Remote"
+      },
+      {
+        "role": "Database Administrator",
+        "seniority": "Director",
+        "skills": [
+          "Backup & Recovery",
+          "Replication",
+          "Security",
+          "NoSQL familiarity",
+          "SQL Tuning",
+          "Database Design",
+          "Performance Monitoring"
+        ],
+        "location": "Noida, India",
+        "employment_type": "Part-time"
+      },
+      {
+        "role": "Technical Support Engineer",
+        "seniority": "Junior",
+        "skills": [
+          "Knowledge Base Writing",
+          "Logging & Monitoring",
+          "Customer Communication",
+          "Troubleshooting",
+          "Scripting",
+          "for automation",
+          "Product Knowledge",
+          "Ticketing Systems"
+        ],
+        "location": "San Francisco, USA",
+        "employment_type": "Remote"
+      },
+      {
+        "role": "Full Stack Developer",
+        "seniority": "Director",
+        "skills": [
+          "Testing",
+          "Backend Frameworks",
+          "DevOps Basics",
+          "RESTful APIs",
+          "Databases",
+          "CI",
+          "CD",
+          "Frontend Frameworks",
+          "Version Control"
+        ],
+        "location": "Seattle, USA",
+        "employment_type": "Full-time"
+      },
+      {
+        "role": "Data Engineer",
+        "seniority": "Junior",
+        "skills": [
+          "Cloud Data Services",
+          "ETL",
+          "Pipelines",
+          "Python",
+          "Scala",
+          "Airflow",
+          "NoSQL",
+          "Data Warehousing",
+          "SQL",
+          "Spark"
+        ],
+        "location": "San Francisco, USA",
+        "employment_type": "Contract"
+      },
+      {
+        "role": "Cloud Engineer",
+        "seniority": "Associate",
+        "skills": [
+          "Cost Optimization",
+          "Monitoring",
+          "Security",
+          "IaC",
+          "Terraform",
+          "Cloud Architecture",
+          "Containerization",
+          "AWS",
+          "Azure",
+          "GCP",
+          "Networking in Cloud"
+        ],
+        "location": "New York, USA",
+        "employment_type": "Part-time"
+      },
+      {
+        "role": "Security Analyst",
+        "seniority": "Senior",
+        "skills": [
+          "SIEM",
+          "Network Security",
+          "Vulnerability Assessment",
+          "Pen Testing basics",
+          "Threat Detection",
+          "Firewalls",
+          "IDS",
+          "IPS",
+          "Incident Response",
+          "Compliance"
+        ],
+        "location": "New York, USA",
+        "employment_type": "Part-time"
+      },
+      {
+        "role": "Solutions Architect",
+        "seniority": "Principal",
+        "skills": [
+          "Security",
+          "System Architecture",
+          "Documentation",
+          "Stakeholder Communication",
+          "Scalability & Performance",
+          "Cost Estimation",
+          "Cloud Design",
+          "Integration Patterns"
+        ],
+        "location": "Hyderabad, India",
+        "employment_type": "Part-time"
+      },
+      {
+        "role": "Site Reliability Engineer",
+        "seniority": "Junior",
+        "skills": [
+          "Kubernetes",
+          "Docker",
+          "Capacity Planning",
+          "Performance Tuning",
+          "Monitoring & Alerting",
+          "Incident Management"
+        ],
+        "location": "Bengaluru, India",
+        "employment_type": "Remote"
+      }
+    ]
+  },
+  {
+    "company": "Shopify",
+    "industry": "IT Services",
+    "company_size": "201-500",
+    "job_roles": [
+      {
+        "role": "Cybersecurity Engineer",
+        "seniority": "Senior",
+        "skills": [
+          "Security Automation",
+          "Identity & Access Management",
+          "SIEM",
+          "Vulnerability Management",
+          "Threat Modeling",
+          "Secure Architecture",
+          "Encryption"
+        ],
+        "location": "Bengaluru, India",
+        "employment_type": "Internship"
+      },
+      {
+        "role": "Technical Support Engineer",
+        "seniority": "Associate",
+        "skills": [
+          "Knowledge Base Writing",
+          "Scripting",
+          "for automation",
+          "Product Knowledge",
+          "Ticketing Systems",
+          "Logging & Monitoring",
+          "Troubleshooting",
+          "Customer Communication"
+        ],
+        "location": "Seattle, USA",
+        "employment_type": "Contract"
+      },
+      {
+        "role": "Security Analyst",
+        "seniority": "Director",
+        "skills": [
+          "Threat Detection",
+          "SIEM",
+          "Incident Response",
+          "Pen Testing basics",
+          "Firewalls",
+          "IDS",
+          "IPS",
+          "Network Security",
+          "Vulnerability Assessment",
+          "Compliance"
+        ],
+        "location": "Remote",
+        "employment_type": "Contract"
+      },
+      {
+        "role": "Quality Assurance Engineer",
+        "seniority": "Associate",
+        "skills": [
+          "Manual Testing",
+          "Test Case Design",
+          "API Testing",
+          "Test Planning",
+          "Regression Testing",
+          "CI Integration",
+          "Automation",
+          "Selenium",
+          "Cypress"
+        ],
+        "location": "Seattle, USA",
+        "employment_type": "Full-time"
+      },
+      {
+        "role": "UI/UX Designer",
+        "seniority": "Associate",
+        "skills": [
+          "Usability Testing",
+          "Design Systems",
+          "Interaction Design",
+          "User Research",
+          "Wireframing"
+        ],
+        "location": "Toronto, Canada",
+        "employment_type": "Contract"
+      },
+      {
+        "role": "Frontend Developer",
+        "seniority": "Manager",
+        "skills": [
+          "Version Control",
+          "Git",
+          "Cross-browser Testing",
+          "Accessibility",
+          "UI",
+          "UX basics",
+          "Responsive Design"
+        ],
+        "location": "San Francisco, USA",
+        "employment_type": "Remote"
+      },
+      {
+        "role": "Cloud Engineer",
+        "seniority": "Associate",
+        "skills": [
+          "Networking in Cloud",
+          "IaC",
+          "Terraform",
+          "Containerization",
+          "Cost Optimization",
+          "Security",
+          "AWS",
+          "Azure",
+          "GCP"
+        ],
+        "location": "San Francisco, USA",
+        "employment_type": "Remote"
+      },
+      {
+        "role": "Solutions Architect",
+        "seniority": "Lead",
+        "skills": [
+          "Stakeholder Communication",
+          "Documentation",
+          "Cost Estimation",
+          "Scalability & Performance",
+          "Cloud Design",
+          "System Architecture",
+          "Integration Patterns"
+        ],
+        "location": "Berlin, Germany",
+        "employment_type": "Internship"
+      }
+    ]
+  }
+]
