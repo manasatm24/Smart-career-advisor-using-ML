@@ -2,7 +2,7 @@
 
 A machine learning-powered career guidance platform that helps students and professionals discover suitable career paths and job opportunities based on their academic background, skills, and preferences.
 
-## 🚀 Features
+##  Features
 
 - **Intelligent Career Matching**: Uses ML algorithms to suggest career paths based on branch, skills, and experience level
 - **Job Market Insights**: Real-time job listings with detailed requirements and salary information
@@ -11,7 +11,7 @@ A machine learning-powered career guidance platform that helps students and prof
 - **Responsive Web Interface**: Modern, mobile-friendly UI built with HTML, CSS, and JavaScript
 - **RESTful API**: Backend API for seamless integration and data management
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Backend
 - **Python** - Core programming language
@@ -30,13 +30,13 @@ A machine learning-powered career guidance platform that helps students and prof
 - **SQLite** - Lightweight database for development
 - **SQLAlchemy Models** - Career, Job, Feedback, Admin, Student tables
 
-## 📋 Prerequisites
+## Prerequisites
 
 - Python 3.8 or higher
 - pip (Python package manager)
 - Virtual environment (recommended)
 
-## 🔧 Installation
+##  Installation
 
 1. **Clone the repository**
    ```bash
@@ -65,7 +65,7 @@ A machine learning-powered career guidance platform that helps students and prof
    ```
    This will create the SQLite database and tables automatically.
 
-## 🚀 Usage
+##  Usage
 
 1. **Start the backend server**
    ```bash
@@ -83,7 +83,7 @@ A machine learning-powered career guidance platform that helps students and prof
    - Visit `http://localhost:5000/admin` in your browser
    - Default admin credentials: (configure in `reset_admin.py`)
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 smart-career-advisor-ml/
@@ -109,7 +109,7 @@ smart-career-advisor-ml/
 └── README.md                  # Project documentation
 ```
 
-## 🔌 API Endpoints
+##  API Endpoints
 
 ### Admin Routes (`/admin`)
 - `GET /admin/login` - Admin login
@@ -124,7 +124,7 @@ smart-career-advisor-ml/
 - `POST /api/feedback` - Submit feedback
 - `GET /api/jobs` - Get all jobs
 
-## 🤝 Contributing
+##  Contributing
 
 1. Fork the repository
 2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
@@ -132,14 +132,14 @@ smart-career-advisor-ml/
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📝 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 📧 Contact
+## Contact
 
 For questions or support, please open an issue on GitHub.
 
 ---
 
-**Made with ❤️ for career guidance and professional development**
+**Made with  for career guidance and professional development**
