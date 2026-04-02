@@ -1,0 +1,22 @@
+[
+  {
+    "branch": "CSE",
+    "skills": ["Java", "Python", "AI"],
+    "career": "Software Engineer"
+  },
+  {
+    "branch": "ECE",
+    "skills": ["VLSI", "Signal Processing"],
+    "career": "Embedded Systems Engineer"
+  },
+  {
+    "branch": "EEE",
+    "skills": ["Power Systems", "Control Systems"],
+    "career": "Electrical Design Engineer"
+  },
+  {
+    "branch": "ME",
+    "skills": ["CAD", "Thermodynamics"],
+    "career": "Mechanical Design Engineer"
+  }
+]
