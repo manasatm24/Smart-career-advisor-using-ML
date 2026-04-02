@@ -100,11 +100,10 @@ smart-career-advisor-ml/
 │   └── database/
 │       └── instance/          # SQLite database files
 ├── smart-career-advisor/
-│   └── smart-c-advisor/
-│       ├── index.html         # Main web page
-│       ├── style.css          # Main styles
-│       ├── script.js          # Main JavaScript
-│       └── data/
+│         ├── index.html         # Main web page
+│         ├── style.css          # Main styles
+│         ├── script.js          # Main JavaScript
+│         └── data/
 │           ├── careers.json   # Career data
 │           └── jobs.json      # Job listings
 └── README.md                  # Project documentation
