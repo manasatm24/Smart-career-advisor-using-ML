@@ -6,7 +6,6 @@ A machine learning-powered career guidance platform that helps students and prof
 
 - **Intelligent Career Matching**: Uses ML algorithms to suggest career paths based on branch, skills, and experience level
 - **Job Market Insights**: Real-time job listings with detailed requirements and salary information
-- **Admin Dashboard**: Comprehensive admin panel for managing careers, jobs, and user feedback
 - **User Feedback System**: Collect and manage user feedback for continuous improvement
 - **Responsive Web Interface**: Modern, mobile-friendly UI built with HTML, CSS, and JavaScript
 - **RESTful API**: Backend API for seamless integration and data management
@@ -110,10 +109,6 @@ smart-career-advisor-ml/
 ```
 
 ##  API Endpoints
-
-### Admin Routes (`/admin`)
-- `GET /admin/login` - Admin login
-- `POST /admin/dashboard` - Admin dashboard data
 
 ### Student Routes (`/student`)
 - `POST /student/career` - Get career recommendations
