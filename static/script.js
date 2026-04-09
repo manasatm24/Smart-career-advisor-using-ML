@@ -1,10 +1,3 @@
-/* script.js - robust, safe version
-   Replace your existing script.js with this entire file.
-*/
-
-
-
-
 
   document.addEventListener("DOMContentLoaded", () => {
   // --- Elements (safe queries) ---
@@ -398,14 +391,6 @@ document.addEventListener("DOMContentLoaded", () => {
     });
   });
 });
-
-
-
-
-
-
-
-
 document.addEventListener("DOMContentLoaded", () => {
   const form = document.getElementById("feedbackForm");
 
