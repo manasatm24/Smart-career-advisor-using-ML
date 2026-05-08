@@ -2,7 +2,7 @@
 
 A machine learning-powered career guidance platform that helps students and professionals discover suitable career paths and job opportunities based on their academic background, skills, and preferences.
 
-##  Features
+#  Features
 
 - **Intelligent Career Matching**: Uses ML algorithms to suggest career paths based on branch, skills, and experience level
 - **Job Market Insights**: Real-time job listings with detailed requirements and salary information
