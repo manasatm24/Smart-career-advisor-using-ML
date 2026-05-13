@@ -64,7 +64,7 @@ A machine learning-powered career guidance platform that helps students and prof
    ```
    This will create the SQLite database and tables automatically.
 
-##  Usage
+#  Usage
 
 1. **Start the backend server**
    ```bash
